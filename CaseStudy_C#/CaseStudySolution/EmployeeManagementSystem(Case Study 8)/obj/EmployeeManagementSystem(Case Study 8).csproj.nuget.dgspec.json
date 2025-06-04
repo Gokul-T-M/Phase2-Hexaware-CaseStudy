@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj": {}
+    "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj": {}
   },
   "projects": {
-    "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj": {
+    "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
+        "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
         "projectName": "EmployeeManagementSystem(Case Study 8)",
-        "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
+        "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
         "packagesPath": "C:\\Users\\gokul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\obj\\",
+        "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

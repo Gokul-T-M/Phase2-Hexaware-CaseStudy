@@ -1,0 +1,7 @@
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe.config
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.exe
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\bin\Debug\LinqCodeTemplate.pdb
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate(CaseStudy 9).csproj.AssemblyReference.cache
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate(CaseStudy 9).csproj.CoreCompileInputs.cache
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.exe
+C:\Users\gokul\OneDrive\Desktop\LinqCodeTemplate\LinqCodeTemplate\obj\Debug\LinqCodeTemplate.pdb

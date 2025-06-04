@@ -1,65 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\",
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\problem10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy5\\casestudy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\casestudy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\problem11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy6\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy6\\casestudy6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\casestudy6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\employeemanagementsystem(case study 8).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\employeemanagementsystem(case study 8).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\employeemanagementsystem(case study 8).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\problem4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA29999-1552-49E9-9801-0F801A0A9DAC}|..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\LinqCodeTemplate(CaseStudy 9).csproj|c:\\users\\gokul\\onedrive\\desktop\\linqcodetemplate\\linqcodetemplate\\problem12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy6\\casestudy6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\casestudy6.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy5\\casestudy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\casestudy5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87500726-E799-48F4-B7F1-8D56A45C4C4A}|CaseStudy5\\CaseStudy5.csproj|solutionrelative:casestudy5\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy6\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\myplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\iparttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\employeemanagementsystem(case study 8)\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\employeemanagementsystem(case study 8)\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F775713A-3CF5-4ECE-844C-4ED30FBB9550}|EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj|solutionrelative:employeemanagementsystem(case study 8)\\ifulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy6\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy6\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\iplaylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\casestudysolution\\casestudy6\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|c:\\users\\gokul\\onedrive\\desktop\\phase2-hexaware-casestudy\\casestudy_c#\\casestudysolution\\casestudy6\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B6CE47C-CABD-4D1F-9E9B-1387183A38B6}|CaseStudy6\\CaseStudy6.csproj|solutionrelative:casestudy6\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -73,64 +94,100 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\Program.cs",
-              "RelativeDocumentMoniker": "CaseStudy5\\Program.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\Program.cs",
-              "RelativeToolTip": "CaseStudy5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Problem10.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:33:58.724Z",
+              "WhenOpened": "2025-06-04T09:22:08.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CaseStudy5.csproj",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
-              "RelativeDocumentMoniker": "CaseStudy5\\CaseStudy5.csproj",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
-              "RelativeToolTip": "CaseStudy5\\CaseStudy5.csproj",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\App.config",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\App.config",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\App.config",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-04T02:33:57.493Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-04T09:21:21.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Problem11.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem11.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:20:39.731Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\Student.cs",
-              "RelativeDocumentMoniker": "CaseStudy5\\Student.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\Student.cs",
-              "RelativeToolTip": "CaseStudy5\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T02:30:42.67Z"
+              "WhenOpened": "2025-06-04T09:20:26.565Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FullTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
-              "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:15:35.875Z"
+              "WhenOpened": "2025-06-04T09:20:25.5Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
+              "Title": "Problem4.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:20:23.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Problem12.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "RelativeToolTip": "..\\..\\..\\LinqCodeTemplate\\LinqCodeTemplate\\Problem12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T09:20:22.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Employee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\Employee.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Employee.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Employee.cs",
               "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -138,23 +195,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudySolution\\StudentManagement\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Phase2-Hexaware-CaseStudy\\CaseStudySolution\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CaseStudySolution\\StudentManagement\\Program.cs",
               "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudySolution\\StudentManagement\\Program.cs",
-              "RelativeToolTip": "..\\Phase2-Hexaware-CaseStudy\\CaseStudySolution\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "..\\..\\CaseStudySolution\\StudentManagement\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T07:44:12.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "EmployeeManagementSystem(Case Study 8).csproj",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
               "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
               "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\EmployeeManagementSystem(Case Study 8).csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -162,24 +219,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Program.cs",
-              "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\Program.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Program.cs",
-              "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\FullTimeEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:12:32.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T10:15:35.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\Student.cs",
+              "RelativeDocumentMoniker": "CaseStudy5\\Student.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\Student.cs",
+              "RelativeToolTip": "CaseStudy5\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:30:42.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:12:32.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CaseStudy6.csproj",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\CaseStudy6.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\CaseStudy6.csproj",
               "RelativeDocumentMoniker": "CaseStudy6\\CaseStudy6.csproj",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\CaseStudy6.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\CaseStudy6.csproj",
               "RelativeToolTip": "CaseStudy6\\CaseStudy6.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -187,11 +267,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "CaseStudy5.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
+              "RelativeDocumentMoniker": "CaseStudy5\\CaseStudy5.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
+              "RelativeToolTip": "CaseStudy5\\CaseStudy5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-04T02:33:57.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\Program.cs",
+              "RelativeDocumentMoniker": "CaseStudy5\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\Program.cs",
+              "RelativeToolTip": "CaseStudy5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:33:58.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "MyPlayList.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\MyPlayList.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\MyPlayList.cs",
               "RelativeDocumentMoniker": "CaseStudy6\\MyPlayList.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\MyPlayList.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\MyPlayList.cs",
               "RelativeToolTip": "CaseStudy6\\MyPlayList.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 18,
               "Title": "IFullTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
               "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\IFullTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "IPartTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
               "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\IPartTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,11 +327,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "PartTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
               "RelativeDocumentMoniker": "EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
               "RelativeToolTip": "EmployeeManagementSystem(Case Study 8)\\PartTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAC3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -235,11 +339,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "IPlaylist.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\IPlaylist.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\IPlaylist.cs",
               "RelativeDocumentMoniker": "CaseStudy6\\IPlaylist.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\IPlaylist.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\IPlaylist.cs",
               "RelativeToolTip": "CaseStudy6\\IPlaylist.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +351,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "Song.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\Song.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\Song.cs",
               "RelativeDocumentMoniker": "CaseStudy6\\Song.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\Song.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\Song.cs",
               "RelativeToolTip": "CaseStudy6\\Song.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,11 +363,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\Program.cs",
               "RelativeDocumentMoniker": "CaseStudy6\\Program.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy6\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy6\\Program.cs",
               "RelativeToolTip": "CaseStudy6\\Program.cs",
               "ViewState": "AgIAADQAAAAAAAAAAAAQwCYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

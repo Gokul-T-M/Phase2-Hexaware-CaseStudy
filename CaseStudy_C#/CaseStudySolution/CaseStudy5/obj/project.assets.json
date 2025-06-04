@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
+      "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
       "projectName": "CaseStudy5",
-      "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
+      "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\CaseStudy5.csproj",
       "packagesPath": "C:\\Users\\gokul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\CaseStudySolution\\CaseStudy5\\obj\\",
+      "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_C#\\CaseStudySolution\\CaseStudy5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
