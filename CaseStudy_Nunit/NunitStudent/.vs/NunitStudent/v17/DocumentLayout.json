@@ -3,12 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studenttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studenttests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\studentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18E7AD14-9E9B-40F3-8CD4-3CCD4CE95D4A}|StudentTests\\StudentTests.csproj|solutionrelative:studenttests\\studenttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\businesslogic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\businesslogic\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\repository\\inmemorystudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\repository\\inmemorystudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\nunitstudent\\studentdal\\studentdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1954EE42-7CF6-4382-AA58-AB94D7E01216}|StudentDAL\\StudentDAL.csproj|solutionrelative:studentdal\\studentdal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentTests",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\StudentTests.csproj",
+              "RelativeDocumentMoniker": "StudentTests\\StudentTests.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\StudentTests.csproj",
+              "RelativeToolTip": "StudentTests\\StudentTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T05:54:35.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "StudentTests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\UnitTest1.cs",
-              "RelativeToolTip": "StudentTests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Title": "StudentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\StudentServiceTests.cs",
+              "RelativeDocumentMoniker": "StudentTests\\StudentServiceTests.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentTests\\StudentServiceTests.cs",
+              "RelativeToolTip": "StudentTests\\StudentServiceTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:23:20.619Z",
+              "WhenOpened": "2025-06-11T05:44:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\BusinessLogic\\StudentService.cs",
+              "RelativeDocumentMoniker": "StudentDAL\\BusinessLogic\\StudentService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\BusinessLogic\\StudentService.cs",
+              "RelativeToolTip": "StudentDAL\\BusinessLogic\\StudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:36:36.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Repository\\InMemoryStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentDAL\\Repository\\InMemoryStudentRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Repository\\InMemoryStudentRepository.cs",
+              "RelativeToolTip": "StudentDAL\\Repository\\InMemoryStudentRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAA7wBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:32:01.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Class1.cs",
-              "RelativeDocumentMoniker": "StudentDAL\\Class1.cs",
-              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Class1.cs",
-              "RelativeToolTip": "StudentDAL\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentDAL\\Repository\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentDAL\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T03:22:18.191Z",
+              "WhenOpened": "2025-06-11T03:30:09.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Domain\\Student.cs",
+              "RelativeDocumentMoniker": "StudentDAL\\Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\Domain\\Student.cs",
+              "RelativeToolTip": "StudentDAL\\Domain\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T03:29:09.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentDAL",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\StudentDAL.csproj",
+              "RelativeDocumentMoniker": "StudentDAL\\StudentDAL.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\NunitStudent\\StudentDAL\\StudentDAL.csproj",
+              "RelativeToolTip": "StudentDAL\\StudentDAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-11T03:28:02.706Z",
               "EditorCaption": ""
             }
           ]
