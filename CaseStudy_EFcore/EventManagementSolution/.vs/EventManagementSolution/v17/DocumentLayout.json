@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\sessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\isessionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\eventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\ieventrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\migrations\\20250611235518_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\20250611235518_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\eventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\speakerdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\sessioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FE989FA-AC39-498B-9894-C2D807B1B3D7}|DAL\\DAL.csproj|solutionrelative:dal\\models\\participanteventdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E0A86F0-0EE6-43EE-88C5-FE613E76FBB7}|AppUI\\AppUI.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\eventmanagementsolution\\appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E0A86F0-0EE6-43EE-88C5-FE613E76FBB7}|AppUI\\AppUI.csproj|solutionrelative:appui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\SessionRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\SessionRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\SessionRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\SessionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:15:53.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISessionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\ISessionRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\ISessionRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\ISessionRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\ISessionRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:15:20.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\EventRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\EventRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\EventRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\EventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:14:05.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEventRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\IEventRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IEventRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\IEventRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IEventRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:13:20.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:10:06.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T03:08:50.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250611235518_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Migrations\\20250611235518_InitialCreate.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\20250611235518_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Migrations\\20250611235518_InitialCreate.cs",
+              "RelativeToolTip": "DAL\\Migrations\\20250611235518_InitialCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:55:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\DatabaseHelper.cs",
+              "RelativeToolTip": "DAL\\Models\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:52:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appSettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\appSettings.json",
+              "RelativeDocumentMoniker": "DAL\\appSettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\appSettings.json",
+              "RelativeToolTip": "DAL\\appSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-11T23:32:50.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EventDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\EventDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDbContext.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\EventDbContext.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T22:49:14.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParticipantEventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\ParticipantEventDetails.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\ParticipantEventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\ParticipantEventDetails.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:18:14.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\SessionInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SessionInfo.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\SessionInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\SessionInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:17:55.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:06:56.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpeakerDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\SpeakerDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\SpeakerDetails.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\SpeakerDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\SpeakerDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:17:35.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EventDetails.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\EventDetails.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\EventDetails.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\EventDetails.cs",
+              "RelativeToolTip": "DAL\\Models\\EventDetails.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:17:11.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\UserInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\UserInfo.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\Models\\UserInfo.cs",
+              "RelativeToolTip": "DAL\\Models\\UserInfo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:16:40.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\Program.cs",
+              "RelativeDocumentMoniker": "AppUI\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\Program.cs",
+              "RelativeToolTip": "AppUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:07:41.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
