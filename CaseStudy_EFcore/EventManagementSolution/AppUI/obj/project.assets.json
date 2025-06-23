@@ -3612,11 +3612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\AppUI.csproj",
+      "projectUniqueName": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\AppUI\\AppUI.csproj",
       "projectName": "AppUI",
-      "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\AppUI.csproj",
+      "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\AppUI\\AppUI.csproj",
       "packagesPath": "C:\\Users\\gokul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\obj\\",
+      "outputPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\AppUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3638,8 +3638,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\DAL.csproj": {
-              "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\DAL.csproj"
+            "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\DAL\\DAL.csproj": {
+              "projectPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\DAL\\DAL.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ynpvxI+BK9o=",
+  "dgSpecHash": "1ZoI1nkDAEU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\DAL\\DAL.csproj",
+  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\DAL\\DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokul\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gokul\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

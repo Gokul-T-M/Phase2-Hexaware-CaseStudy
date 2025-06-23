@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/1jhRR3JpHQ=",
+  "dgSpecHash": "JPH8CRras9M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\EventManagementSolution\\AppUI\\AppUI.csproj",
+  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_EFcore\\EventManagementSolution\\AppUI\\AppUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokul\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\gokul\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

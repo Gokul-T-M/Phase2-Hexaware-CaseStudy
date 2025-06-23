@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\contact\\showcontacts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\contact\\getcontactbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\contact\\addcontact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\models\\contactinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\contactsdirectoryapp\\contactsdirectoryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{616DEE7E-7652-4039-956E-6BC5247C1AD7}|ContactsDirectoryApp\\ContactsDirectoryApp.csproj|solutionrelative:contactsdirectoryapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Program.cs",
+              "RelativeToolTip": "ContactsDirectoryApp\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:28:18.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowContacts.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Contact\\ShowContacts.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\ShowContacts.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Contact\\ShowContacts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:36:47.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ContactInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Models\\ContactInfo.cs",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Models\\ContactInfo.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Models\\ContactInfo.cs",
+              "RelativeToolTip": "ContactsDirectoryApp\\Models\\ContactInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:30:15.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetContactById.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Contact\\GetContactById.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\GetContactById.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Contact\\GetContactById.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:40:05.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ContactsDirectoryApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:24:32.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:28:07.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "ContactsDirectoryApp\\Controllers\\ContactController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:34:09.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddContact.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\AddContact.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Contact\\AddContact.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Contact\\AddContact.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Contact\\AddContact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:41:16.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ContactsDirectoryApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T06:05:29.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\appsettings.Development.json",
+              "RelativeToolTip": "ContactsDirectoryApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T06:06:28.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\appsettings.json",
+              "RelativeToolTip": "ContactsDirectoryApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T05:42:26.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ContactsDirectoryApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-23T05:42:55.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:28:15.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:28:13.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:28:11.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ContactsDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ContactsDirectoryApp\\ContactsDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ContactsDirectoryApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T05:28:09.197Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
