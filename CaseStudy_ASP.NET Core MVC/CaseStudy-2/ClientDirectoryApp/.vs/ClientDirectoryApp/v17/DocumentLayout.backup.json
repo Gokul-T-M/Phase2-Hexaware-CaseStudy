@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\views\\client\\addclient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\views\\client\\showallclientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\models\\clientinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\clientdirectoryapp\\clientdirectoryapp\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{87AA6DE6-8378-467F-BEEA-87DA368614C9}|ClientDirectoryApp\\ClientDirectoryApp.csproj|solutionrelative:clientdirectoryapp\\views\\client\\clientdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddClient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\AddClient.cshtml",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Views\\Client\\AddClient.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\AddClient.cshtml",
+              "RelativeToolTip": "ClientDirectoryApp\\Views\\Client\\AddClient.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T10:04:45.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Views\\Client\\ClientDetails.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\ClientDetails.cshtml",
+              "RelativeToolTip": "ClientDirectoryApp\\Views\\Client\\ClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T10:04:09.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowAllClientDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "RelativeToolTip": "ClientDirectoryApp\\Views\\Client\\ShowAllClientDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-23T09:59:25.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Controllers\\ClientController.cs",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Controllers\\ClientController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Controllers\\ClientController.cs",
+              "RelativeToolTip": "ClientDirectoryApp\\Controllers\\ClientController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:40:25.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientInfo.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Models\\ClientInfo.cs",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Models\\ClientInfo.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Models\\ClientInfo.cs",
+              "RelativeToolTip": "ClientDirectoryApp\\Models\\ClientInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:39:31.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Program.cs",
+              "RelativeDocumentMoniker": "ClientDirectoryApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\Program.cs",
+              "RelativeToolTip": "ClientDirectoryApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T09:34:43.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

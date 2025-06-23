@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/E9urVZWlr7XC4Qn0H9OE5KuOrMjF+iW4Z3SgBxoO0o=",
+  "Source": "ClientDirectoryApp",
+  "BasePath": "_content/ClientDirectoryApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

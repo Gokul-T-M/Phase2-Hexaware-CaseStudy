@@ -1,0 +1,38 @@
+﻿@model List<ClientDirectoryApp.Models.ClientInfo>
+@{
+	ViewData["Title"]="All Clients";
+}
+
+<h2>All Client Details</h2>
+
+<a href="/client/add" class="btn btn-primary">Add Client</a>
+
+@if (Model.Count == 0)
+{
+    <p>No clients yet.</p>
+}
+else{
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>ID</th>
+        <th>Company</th>
+        <th>Email</th>
+        <th>URL</th>
+        <th>Category</th>
+        <th>Standard</th>
+    </tr>
+    @foreach (var c in Model)
+    {
+        <tr>
+            <td>@c.ClientId</td>
+            <td>@c.CompanyName</td>
+            <td>@c.Email</td>
+            <td>@c.WebUrl</td>
+            <td>@c.Category</td>
+            <td>@c.Standard</td>
+        </tr>
+    }
+</table>
+}
