@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\models\\publisheddatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\models\\publisheddatevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\bookvalidationapp\\bookvalidationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{176CF4C4-B9F6-4FAA-847F-C8CD88F6DD99}|BookValidationApp\\BookValidationApp.csproj|solutionrelative:bookvalidationapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Program.cs",
+              "RelativeDocumentMoniker": "BookValidationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Program.cs",
+              "RelativeToolTip": "BookValidationApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:21:37.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookValidationApp\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "BookValidationApp\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:20:50.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Views\\Book\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookValidationApp\\Views\\Book\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Views\\Book\\Create.cshtml",
+              "RelativeToolTip": "BookValidationApp\\Views\\Book\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAiwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T04:19:56.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BookValidationApp\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BookValidationApp\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:18:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PublishedDateValidation.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\PublishedDateValidation.cs",
+              "RelativeDocumentMoniker": "BookValidationApp\\Models\\PublishedDateValidation.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\PublishedDateValidation.cs",
+              "RelativeToolTip": "BookValidationApp\\Models\\PublishedDateValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:17:53.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookValidationApp\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\Book.cs",
+              "RelativeToolTip": "BookValidationApp\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:16:23.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "BookValidationApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\BookValidationApp\\BookValidationApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "BookValidationApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T04:15:52.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
