@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nGCyJmIraEs=",
+  "dgSpecHash": "t5gu1sHOOzs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\ClientDirectoryApp\\ClientDirectoryApp\\ClientDirectoryApp.csproj",
+  "projectFilePath": "C:\\Users\\gokul\\OneDrive\\Desktop\\Phase2-Hexaware-CaseStudy\\CaseStudy_ASP.NET Core MVC\\CaseStudy-2\\ClientDirectoryApp\\ClientDirectoryApp\\ClientDirectoryApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gokul\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",
     "C:\\Users\\gokul\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
