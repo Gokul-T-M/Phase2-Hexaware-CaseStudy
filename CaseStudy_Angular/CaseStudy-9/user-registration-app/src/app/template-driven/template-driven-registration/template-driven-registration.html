@@ -1,0 +1,39 @@
+<h2>Template-Driven Registration Form</h2>
+<form #form="ngForm" (ngSubmit)="onSubmit(form)">
+  <label>
+    Full Name:
+    <input type="text" name="fullName" [(ngModel)]="user.fullName" required>
+  </label>
+  <br>
+  <label>
+    Email:
+    <input type="email" name="email" [(ngModel)]="user.email" required email>
+  </label>
+  <br>
+  <label>
+    Gender:
+    <input type="radio" name="gender" value="Male" [(ngModel)]="user.gender" required> Male
+    <input type="radio" name="gender" value="Female" [(ngModel)]="user.gender"> Female
+    <input type="radio" name="gender" value="Other" [(ngModel)]="user.gender"> Other
+  </label>
+  <br>
+  <label>
+    Country:
+    <select name="country" [(ngModel)]="user.country" required>
+      <option value="">Select Country</option>
+      <option *ngFor="let c of countries" [value]="c">{{ c }}</option>
+    </select>
+  </label>
+  <br>
+  <label>
+    <input type="checkbox" name="agree" [(ngModel)]="user.agree" required>
+    I agree to the terms and conditions
+  </label>
+  <br>
+  <button type="submit" [disabled]="!form.valid">Register</button>
+</form>
+
+<div *ngIf="submitted" class="preview-section">
+  <h3>Submitted Data:</h3>
+  <pre>{{ user | json }}</pre>
+</div>

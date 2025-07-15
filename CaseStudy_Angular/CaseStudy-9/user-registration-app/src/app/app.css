@@ -1,0 +1,12 @@
+nav {
+  margin-bottom: 12px;
+}
+nav a {
+  margin-right: 12px;
+  text-decoration: none;
+  color: #1976d2;
+}
+nav a.active {
+  font-weight: bold;
+  text-decoration: underline;
+}

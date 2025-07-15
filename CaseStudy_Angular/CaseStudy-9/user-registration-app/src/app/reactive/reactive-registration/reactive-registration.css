@@ -1,0 +1,54 @@
+<h2>Reactive Registration Form</h2>
+<form [formGroup]="registrationForm" (ngSubmit)="onSubmit()">
+  <label>
+    Full Name:
+    <input type="text" formControlName="fullName">
+  </label>
+  <div *ngIf="registrationForm.get('fullName')?.invalid && registrationForm.get('fullName')?.touched">
+    Name is required.
+  </div>
+  <br>
+  <label>
+    Email:
+    <input type="email" formControlName="email">
+  </label>
+  <div *ngIf="registrationForm.get('email')?.invalid && registrationForm.get('email')?.touched">
+    Enter a valid email.
+  </div>
+  <br>
+  <label>
+    Gender:
+    <input type="radio" formControlName="gender" value="Male"> Male
+    <input type="radio" formControlName="gender" value="Female"> Female
+    <input type="radio" formControlName="gender" value="Other"> Other
+  </label>
+  <div *ngIf="registrationForm.get('gender')?.invalid && registrationForm.get('gender')?.touched">
+    Gender is required.
+  </div>
+  <br>
+  <label>
+    Country:
+    <select formControlName="country">
+      <option value="">Select Country</option>
+      <option *ngFor="let c of countries" [value]="c">{{ c }}</option>
+    </select>
+  </label>
+  <div *ngIf="registrationForm.get('country')?.invalid && registrationForm.get('country')?.touched">
+    Country is required.
+  </div>
+  <br>
+  <label>
+    <input type="checkbox" formControlName="agree">
+    I agree to the terms and conditions
+  </label>
+  <div *ngIf="registrationForm.get('agree')?.invalid && registrationForm.get('agree')?.touched">
+    You must agree before submitting.
+  </div>
+  <br>
+  <button type="submit" [disabled]="registrationForm.invalid">Register</button>
+</form>
+
+<div *ngIf="submitted" class="preview-section">
+  <h3>Submitted Data:</h3>
+  <pre>{{ userData | json }}</pre>
+</div>
