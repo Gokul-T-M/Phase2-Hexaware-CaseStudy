@@ -1,0 +1,36 @@
+.container {
+  padding: 20px;
+}
+
+.card {
+  transition: transform 0.3s, box-shadow 0.3s;
+  background-color: #ffe5e5; /* light red background */
+  border: 1px solid #ffcccc;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 20px rgba(255, 100, 100, 0.2);
+  cursor: pointer;
+  border-color: #b71c1c;
+}
+
+.card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #c62828; /* dark red */
+}
+
+.card-text {
+  color: #444;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  color: #b71c1c; /* bold red */
+  font-weight: 600;
+}
+

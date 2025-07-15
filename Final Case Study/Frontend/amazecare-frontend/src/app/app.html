@@ -1,0 +1,114 @@
+<nav class="navbar navbar-expand-lg fixed-top shadow" style="background-color: #ffcdd2; padding: 1.2rem 1rem; z-index: 1030;">
+  <div class="container-fluid">
+
+    <!-- Left: Logo + Name -->
+    <div class="d-flex align-items-center">
+      <img src="images/AmazecareLogo.jpg" alt="Logo" width="50" height="50" class="me-2" />
+      <span class="navbar-brand mb-0 h1" style="font-size: 1.8rem; font-weight: bold; color: #b71c1c;">
+        AmazeCare Hospital
+      </span>
+    </div>
+
+    <!-- Toggler for mobile -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Right: Nav links -->
+    <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
+      <ul class="navbar-nav gap-2">
+       
+        <li class="nav-item">
+          <button class="nav-btn" (click)="scrollToSection('welcome-section')">Home</button>
+        </li>
+        
+        <!-- Show only if NOT logged in -->
+        <li class="nav-item" *ngIf="!isLoggedIn">
+          <button class="nav-btn" (click)="scrollToDoctors()">Find Doctors</button>
+        </li>
+
+        <!-- Patient Login -->
+        <li class="nav-item" *ngIf="!isLoggedIn">
+          <button class="nav-btn" (click)="navigateToPatientLogin()">Patient Login</button>
+        </li>
+
+        <!-- Doctor Login -->
+        <li class="nav-item" *ngIf="!isLoggedIn">
+          <button class="nav-btn" (click)="navigateToDoctorLogin()">Doctor Login</button>
+        </li>
+
+        <!-- Logout -->
+        <li class="nav-item" *ngIf="isLoggedIn">
+          <button class="nav-btn" (click)="logout()">Logout</button>
+        </li>
+
+
+      </ul>
+    </div>
+
+  </div>
+</nav>
+
+
+
+<div id="welcome-section" class="container mt-4">
+  <div class="container mt-5">
+  <!-- <div id="welcome-section" class="container mt-4"></div> -->
+  <div class="row align-items-center">
+    <!-- Left side: Text -->
+    <div class="col-md-6">
+      <h1 class="text-danger">Welcome to AmazeCare</h1>
+      <p class="lead">
+        Your health is our top priority. Book appointments with expert doctors and manage your medical journey seamlessly.
+      </p>
+    </div>
+
+    <!-- Right side: Image -->
+    <div class="col-md-6 text-center">
+      <img src="images/Doctor.jpeg" alt="Doctor Image" class="img-fluid" style="max-height: 300px;" />
+    </div>
+  </div>
+</div>
+
+
+<div class="mt-5">
+  <h3 class="text-center" style="color: #c2185b;">What Our Patients Say!</h3>
+  <div class="row mt-4">
+    <div class="col-md-4">
+      <div class="card shadow-sm p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <p>"The doctors at AmazeCare Hospital are truly caring and experienced. I felt safe and confident during my treatment."</p>
+          <small class="text-muted">– Anjali, Chennai</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card shadow-sm p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <p>"Clean wards, polite nurses, and excellent care. AmazeCare Hospital truly lives up to its name."</p>
+          <small class="text-muted">– Ravi, Coimbatore</small>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="card shadow-sm p-3 mb-5 bg-white rounded">
+        <div class="card-body">
+          <p>"I was impressed by how organized everything was—from consultation to tests. Thank you, AmazeCare!"</p>
+          <small class="text-muted">– Meena, Madurai</small>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- 
+<div id="patient-login-box" class="login-box-container">
+  <app-patient-login></app-patient-login>
+</div> -->
+
+
+<router-outlet (activate)="onLoginSuccess()"></router-outlet>
+
+
+

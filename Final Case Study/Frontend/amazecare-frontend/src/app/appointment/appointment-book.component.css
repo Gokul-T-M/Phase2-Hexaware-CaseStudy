@@ -1,0 +1,10 @@
+input, textarea, select {
+  margin-bottom: 1rem;
+}
+button {
+  background-color: #c2185b;
+  color: white;
+}
+button:hover {
+  background-color: #ad1457;
+}

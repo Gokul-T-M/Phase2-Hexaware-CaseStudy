@@ -1,0 +1,14 @@
+<div class="container mt-4">
+  <h4 style="color: #b71c1c;">My Appointments</h4>
+  <div *ngIf="appointments.length === 0">No appointments found.</div>
+
+  <div *ngFor="let appt of appointments" class="card mb-3">
+    <div class="card-body">
+      <h5 class="card-title">{{ appt.doctorName }}</h5>
+      <p><strong>Date:</strong> {{ appt.appointmentDate | date:'fullDate' }}</p>
+      <p><strong>Symptoms:</strong> {{ appt.symptoms }}</p>
+      <p><strong>Status:</strong> {{ appt.status }}</p>
+      <button class="btn btn-outline-danger btn-sm" (click)="deleteAppointment(appt.appointmentId)">Cancel Appointment</button>
+    </div>
+  </div>
+</div>

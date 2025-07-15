@@ -1,0 +1,33 @@
+<div class="container mt-5">
+  <h2 class="text-center mb-4" style="color: #b71c1c;">Doctor Dashboard</h2>
+
+  <!-- Tabs -->
+  <ul class="nav nav-tabs justify-content-center mb-4">
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        [class.active]="activeTab === 'profile'"
+        (click)="setTab('profile')"
+      >
+        My Profile
+      </a>
+    </li>
+    <li class="nav-item">
+      <a
+        class="nav-link"
+        [class.active]="activeTab === 'appointments'"
+        (click)="setTab('appointments')"
+      >
+        My Appointments
+      </a>
+    </li>
+    
+  </ul>
+
+  <!-- Tab Content -->
+  <div [ngSwitch]="activeTab">
+    <app-doctor-profile *ngSwitchCase="'profile'"></app-doctor-profile>
+    <app-doctor-appointments *ngSwitchCase="'appointments'"></app-doctor-appointments>
+    
+  </div>
+</div>

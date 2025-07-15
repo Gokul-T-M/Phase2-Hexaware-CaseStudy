@@ -1,0 +1,18 @@
+
+<div class="container">
+  <div id="doctor-section">
+    <h2 class="text-center mb-4">Book Consultation with our Expert Doctors!</h2>
+  </div>
+  <div class="row row-cols-1 row-cols-md-3 g-4">
+    <div class="col" *ngFor="let doctor of doctors">
+      <div class="card h-100" (click)="onDoctorClick(doctor)" style="cursor:pointer;">
+        <div class="card-body">
+          <h5 class="card-title">{{ doctor.name }}</h5>
+          <p class="card-text">Specialty: {{ doctor.specialty }}</p>
+          <p class="card-text">Experience: {{ doctor.experience }} years</p>
+          <p class="card-text">Qualification: {{ doctor.qualification }}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

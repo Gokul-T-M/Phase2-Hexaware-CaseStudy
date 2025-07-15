@@ -1,0 +1,6 @@
+/* patient-appointments.component.css */
+.appointments-card {
+  background-color: #fff0f0;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(183, 28, 28, 0.1);
+}

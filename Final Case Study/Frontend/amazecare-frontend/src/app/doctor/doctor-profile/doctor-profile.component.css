@@ -1,0 +1,45 @@
+input, textarea, select {
+  border: 1px solid #b71c1c;
+}
+.container {
+  max-width: 600px;
+}
+.container {
+  background-color: #fff5f5;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(183, 28, 28, 0.2);
+  max-width: 700px;
+  margin: 2rem auto;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h4 {
+  color: #b71c1c;
+  font-weight: bold;
+}
+
+p {
+  margin: 0.4rem 0;
+  color: #4e342e;
+}
+
+input.form-control {
+  border: 1px solid #ef9a9a;
+  border-radius: 5px;
+}
+
+input.form-control:focus {
+  border-color: #c62828;
+  box-shadow: 0 0 5px rgba(198, 40, 40, 0.5);
+}
+
+button.btn{
+  border-radius: 6px;
+  
+}
+
+.text-success {
+  color: #2e7d32;
+  font-weight: 500;
+}

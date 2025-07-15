@@ -1,0 +1,84 @@
+<div class="container mt-4" *ngIf="!loading">
+  <h4 class="mb-3" style="color: #b71c1c;">My Appointments</h4>
+  <div *ngIf="error" class="alert alert-danger">{{ error }}</div>
+
+  <!-- Profile Panel -->
+  <div *ngIf="viewingProfile" class="card p-3 mb-4 shadow-sm">
+    <h5>Patient Profile</h5>
+    <p><strong>{{ patientProfile.name }}</strong> - {{ patientProfile.email }}</p>
+    <p>DOB: {{ patientProfile.dateOfBirth | date }} | Gender: {{ patientProfile.gender }}</p>
+    <p>Contact: {{ patientProfile.contactNumber }}</p>
+    <p><strong>Records:</strong> {{ patientProfile.previousMedicalRecords }}</p>
+    <button class="btn btn-danger mt-2" (click)="closePanel()">Close</button>
+  </div>
+
+  <!-- Appointments Panel -->
+  <div *ngIf="viewingAllAppointments" class="card p-3 mb-4 shadow-sm">
+    <h5>All Appointments of Patient</h5>
+
+    <div *ngFor="let ap of patientAppointments" class="border-bottom mb-3 pb-2">
+      <p><strong>Date:</strong> {{ ap.appointmentDate | date:'mediumDate' }}</p>
+      <p><strong>Symptoms:</strong> {{ ap.symptoms }}</p>
+      <p><strong>Status:</strong> {{ ap.status }}</p>
+      <p><strong>Consulting Details:</strong> {{ ap.consultingDetails || 'N/A' }}</p>
+      <p><strong>Prescriptions:</strong> {{ ap.prescriptions || 'N/A' }}</p>
+      <p><strong>Recommended Tests:</strong> {{ ap.recommendedTests || 'N/A' }}</p>
+    </div>
+
+    <button class="btn btn-danger" (click)="closePanel()">Close</button>
+  </div>
+
+
+  <!-- Doctor's Appointment List -->
+  <div *ngIf="!viewingProfile && !viewingAllAppointments">
+    <div *ngIf="appointments.length === 0 && !error">
+      <p>No appointments found.</p>
+    </div>
+
+    <div *ngFor="let a of appointments" class="card mb-3 shadow-sm">
+      <div class="card-body">
+        <h5 class="card-title">{{ a.patientName }}</h5>
+        <p><strong>Date:</strong> {{ a.appointmentDate | date }}</p>
+        <p><strong>Symptoms:</strong> {{ a.symptoms }}</p>
+        <p><strong>Status:</strong> {{ a.status }}</p>
+        <p><strong>Consulting Details:</strong> {{ a.consultingDetails }}</p>
+        <p><strong>Prescriptions:</strong> {{ a.prescriptions }}</p>
+        <p><strong>Recommended Tests:</strong> {{ a.recommendedTests }}</p>
+
+        <button *ngIf="a.status === 'Scheduled'" class="btn btn-danger me-2" (click)="cancelAppointment(a.appointmentId)">
+          Cancel Appointment
+        </button>
+
+        <button *ngIf="a.status === 'Scheduled'" class="btn btn-success me-2" (click)="startEditing(a)">
+          Add Consultation Info
+        </button>
+
+        <button class="btn btn-info me-2" (click)="viewPatientProfile(a.patientId)">
+          View Patient Profile
+        </button>
+
+        <button class="btn btn-secondary" (click)="viewPatientAppointments(a.patientId)">
+          View All Appointments
+        </button>
+
+        <!-- Consultation Form -->
+        <div *ngIf="editingId === a.appointmentId" class="mt-3 border-top pt-3">
+          <div class="mb-2">
+            <label>Consulting Details:</label>
+            <textarea [(ngModel)]="consultingDetails" class="form-control" rows="2"></textarea>
+          </div>
+          <div class="mb-2">
+            <label>Prescriptions:</label>
+            <textarea [(ngModel)]="prescriptions" class="form-control" rows="2"></textarea>
+          </div>
+          <div class="mb-2">
+            <label>Recommended Tests:</label>
+            <textarea [(ngModel)]="recommendedTests" class="form-control" rows="2"></textarea>
+          </div>
+          <button class="btn btn-success me-2" (click)="submitConsultation(a.appointmentId)">Submit</button>
+          <button class="btn btn-danger" (click)="cancelEdit()">Cancel</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
