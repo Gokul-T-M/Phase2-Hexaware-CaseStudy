@@ -1,0 +1,38 @@
+<!-- Show message if no employees -->
+<div *ngIf="employees.length === 0">
+  <p>No employees found.</p>
+</div>
+
+<!-- Show employee list if available -->
+<table *ngIf="employees.length > 0">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Department</th>
+      <th>Status</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let emp of employees">
+        <!-- Name: Bold if present -->
+        <td [ngStyle]="{ 'font-weight': emp.isPresent ? 'bold' : 'normal' }">{{ emp.name }}</td>
+            
+        <!-- Department: Color based on department -->
+        <td [ngStyle]="{
+              color: emp.department === 'IT' ? 'blue' :
+                     emp.department === 'HR' ? 'purple' :
+                     emp.department === 'Sales' ? 'orange' : 'black'
+            }">
+          {{ emp.department }}
+        </td>
+        
+        <!-- Status: Badge and color -->
+        <td>
+          <span *ngIf="emp.isPresent" [ngClass]="'present'">Present</span>
+          <span *ngIf="!emp.isPresent && emp.workFromHome" [ngClass]="'wfh'">Work From Home</span>
+          <span *ngIf="!emp.isPresent && !emp.workFromHome" [ngClass]="'absent'">Absent</span>
+        </td>
+
+    </tr>
+  </tbody>
+</table>
