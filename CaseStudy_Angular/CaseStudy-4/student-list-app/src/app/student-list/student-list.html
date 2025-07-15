@@ -1,0 +1,20 @@
+<ul *ngIf="students.length > 0">
+  <li *ngFor="let student of students"
+      [ngStyle]="{
+        'font-weight': student.active ? 'bold' : 'normal'
+      }"
+  >
+    <span style="color: black;">{{student.name}}</span>
+    <span style="color: black;"> | </span>
+    <ng-container *ngIf="student.marks >= 50; else failTpl">
+      <span class="marks pass">Marks: {{student.marks}}</span>
+      <span style="color: black;"> | </span>
+      <span class="pass">✅ Pass</span>
+    </ng-container>
+    <ng-template #failTpl>
+      <span class="marks fail">Marks: {{student.marks}}</span>
+      <span style="color: black;"> | </span>
+      <span class="fail">❌ Fail</span>
+    </ng-template>
+  </li>
+</ul>

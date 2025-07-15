@@ -1,0 +1,9 @@
+.pass {
+  color: green;
+}
+.fail {
+  color: red;
+}
+.marks {
+  /* Optional: Add styles for marks if needed */
+}
