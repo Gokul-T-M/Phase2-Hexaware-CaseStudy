@@ -1,0 +1,777 @@
+˘
+AmazeCare.BLL.Class1.Class1()`
+VC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Class1.cs ("0*W
+0;
+9
+
+%0void"object.Object()*
+AmazeCare.BLL.Class1"
+implicit returnB
+AmazeCare.BLL.Class1Xç
+mAmazeCare.BLL.Services.AppointmentService.AppointmentService(AmazeCare.DAL.Interfaces.IAppointmentRepository)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs (!"0*
+0 (*
+1*÷
+1 (;d
+b
+ (	
+
+%0void"object.Object()*9
+ (	-+
+)AmazeCare.BLL.Services.AppointmentService€
+ÿ
+ (:x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository"__id*LJ
+H
+appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*
+2*.
+2	 (	"
+ (	
+implicit return:T
+" (NH
+appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepositoryB-+
+)AmazeCare.BLL.Services.AppointmentServiceXø
+[AmazeCare.BLL.Services.AdminService.AdminService(AmazeCare.DAL.Interfaces.IAdminRepository)o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs ("0*
+0 (*
+1*≤
+1 (/^
+\
+ (	
+
+%0void"object.Object()*3
+ (	'%
+#AmazeCare.BLL.Services.AdminServiceΩ
+∫
+ (.f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository"__id*@>
+<
+adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*
+2*.
+2	 (	"
+ (	
+implicit return:H
+ (<<
+adminRepository)AmazeCare.DAL.Interfaces.IAdminRepositoryB'%
+#AmazeCare.BLL.Services.AdminServiceXÃ
+^AmazeCare.BLL.Services.DoctorService.DoctorService(AmazeCare.DAL.Interfaces.IDoctorRepository)p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs ("0*
+0 (*
+1*∏
+1 (1_
+]
+ (	
+
+%0void"object.Object()*4
+ (	(&
+$AmazeCare.BLL.Services.DoctorService¬
+ø
+ (0i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository"__id*B@
+>
+doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*
+2*.
+2	 (	"
+ (	
+implicit return:J
+ (?>
+doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepositoryB(&
+$AmazeCare.BLL.Services.DoctorServiceXŸ
+aAmazeCare.BLL.Services.PatientService.PatientService(AmazeCare.DAL.Interfaces.IPatientRepository)q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs ("0*
+0 (*
+1*æ
+1 (3`
+^
+ (	
+
+%0void"object.Object()*5
+ (	)'
+%AmazeCare.BLL.Services.PatientService«
+ƒ
+ (2l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository"__id*DB
+@
+patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*
+2*.
+2	 (	"
+ (	
+implicit return:L
+ (B@
+patientRepository+AmazeCare.DAL.Interfaces.IPatientRepositoryB)'
+%AmazeCare.BLL.Services.PatientServiceXê
+CAmazeCare.BLL.Services.AppointmentService.GetAllAppointmentsAsync()u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs4 (K"0*
+0 (*
+1*¸
+1 (H¶£
+ (H*
+%0$System.Threading.Tasks.Task<TResult>"HAmazeCare.DAL.Interfaces.IAppointmentRepository.GetAllWithDetailsAsync()*Ü
+ (/z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository2GetAllWithDetailsAsync()æ
+ª
+ (Ho
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>"__id*8
+ (H,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*å
+2	 (	"}
+ (	q
+o
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>B-+
+)AmazeCare.BLL.Services.AppointmentService¬
+7AmazeCare.BLL.Services.AdminService.GetAllAdminsAsync()o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs. (?"0*
+0 (*
+1*Ã
+1 (7¸˘
+ (7*
+%0$System.Threading.Tasks.Task<TResult>"<AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetAllAsync()*t
+ ()h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository2GetAllAsync()∏
+µ
+ (7i
+%retaSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Admin>>"__id*8
+ (7,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*Ü
+2	 (	"w
+ (	k
+i
+%retaSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Admin>>B'%
+#AmazeCare.BLL.Services.AdminServiceÀ
+9AmazeCare.BLL.Services.DoctorService.GetAllDoctorsAsync()p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs/ (A"0*
+0 (*
+1*–
+1 (8ˇ¸
+ (8*
+%0$System.Threading.Tasks.Task<TResult>"<AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetAllAsync()*w
+ (*k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository2GetAllAsync()π
+∂
+ (8j
+%retbSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Doctor>>"__id*8
+ (8,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*á
+2	 (	"x
+ (	l
+j
+%retbSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Doctor>>B(&
+$AmazeCare.BLL.Services.DoctorService‘
+;AmazeCare.BLL.Services.PatientService.GetAllPatientsAsync()q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs0 (C"0*
+0 (*
+1*‘
+1 (9Çˇ
+ (9*
+%0$System.Threading.Tasks.Task<TResult>"<AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetAllAsync()*z
+ (+n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository2GetAllAsync()∫
+∑
+ (9k
+%retcSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Patient>>"__id*8
+ (9,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*à
+2	 (	"y
+ (	m
+k
+%retcSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Patient>>B)'
+%AmazeCare.BLL.Services.PatientService∑
+<AmazeCare.BLL.Services.DoctorService.GetDoctorByIdAsync(int)p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs# (5"0*
+0 (*
+1* 
+1 (;†ù
+ (;*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*w
+ (*k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*
+8 (:
+	
+idint2GetByIdAsync(int)í
+è
+ (;C
+%ret;System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Doctor?>"__id*8
+ (;,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*`
+2	 (	"Q
+ (	E
+C
+%ret;System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Doctor?>:
+6 (<	
+idintB(&
+$AmazeCare.BLL.Services.DoctorService¿
+>AmazeCare.BLL.Services.PatientService.GetPatientByIdAsync(int)q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs$ (7"0*
+0 (*
+1*Œ
+1 (<£†
+ (<*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*z
+ (+n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*
+9 (;
+	
+idint2GetByIdAsync(int)ì
+ê
+ (<D
+%ret<System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Patient?>"__id*8
+ (<,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*a
+2	 (	"R
+ (	F
+D
+%ret<System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Patient?>:
+8 (>	
+idintB)'
+%AmazeCare.BLL.Services.PatientService¸
+FAmazeCare.BLL.Services.AppointmentService.GetAppointmentByIdAsync(int)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs( (?"0*
+0 (*
+1*ˆ
+1 (K«ƒ
+ (K*
+%0$System.Threading.Tasks.Task<TResult>"LAmazeCare.DAL.Interfaces.IAppointmentRepository.GetByIdWithDetailsAsync(int)*Ü
+ (/z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*
+H (J
+	
+idint2GetByIdWithDetailsAsync(int)ó
+î
+ (KH
+%ret@System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Appointment?>"__id*8
+ (K,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*e
+2	 (	"V
+ (	J
+H
+%ret@System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Appointment?>:
+@ (F	
+idintB-+
+)AmazeCare.BLL.Services.AppointmentServiceÆ
+:AmazeCare.BLL.Services.AdminService.GetAdminByIdAsync(int)o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs" (3"0*
+0 (*
+1*∆
+1 (:ùö
+ (:*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*t
+ ()h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*
+7 (9
+	
+idint2GetByIdAsync(int)ë
+é
+ (:B
+%ret:System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Admin?>"__id*8
+ (:,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*_
+2	 (	"P
+ (	D
+B
+%ret:System.Threading.Tasks.Task<AmazeCare.DAL.Entities.Admin?>:
+4 (:	
+idintB'%
+#AmazeCare.BLL.Services.AdminServiceä
+aAmazeCare.BLL.Services.AppointmentService.AddAppointmentAsync(AmazeCare.DAL.Entities.Appointment)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs (-"0*
+0 (*
+1*Ê
+1! "(5√¿
+! !(>!
+%0System.Threading.Tasks.Task":AmazeCare.DAL.Interfaces.IGenericRepository<T>.AddAsync(T)*Ü
+! !((z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*?
+!2 !(=3
+1
+appointment"AmazeCare.DAL.Entities.Appointment2AddAsync(T)ãà
+" "(4*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*Ü
+" "((z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository2SaveAsync()*
+2*@
+2#	 #(	"1
+# #(	%
+#
+%retSystem.Threading.Tasks.Task:=
+. (E1
+appointment"AmazeCare.DAL.Entities.AppointmentB-+
+)AmazeCare.BLL.Services.AppointmentServiceÆ
+OAmazeCare.BLL.Services.AdminService.AddAdminAsync(AmazeCare.DAL.Entities.Admin)o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs ('"0*
+0 (*
+1*¥
+1! "(/§°
+! !(2!
+%0System.Threading.Tasks.Task":AmazeCare.DAL.Interfaces.IGenericRepository<T>.AddAsync(T)*t
+! !("h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*3
+!, !(1'
+%
+adminAmazeCare.DAL.Entities.Admin2AddAsync(T)¯ı
+" "(.*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*t
+" "("h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository2SaveAsync()*
+2*@
+2#	 #(	"1
+# #(	%
+#
+%retSystem.Threading.Tasks.Task:1
+( (3%
+adminAmazeCare.DAL.Entities.AdminB'%
+#AmazeCare.BLL.Services.AdminServiceΩ
+RAmazeCare.BLL.Services.DoctorService.AddDoctorAsync(AmazeCare.DAL.Entities.Doctor)p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs (("0*
+0 (*
+1*º
+1! "(0©¶
+! !(4!
+%0System.Threading.Tasks.Task":AmazeCare.DAL.Interfaces.IGenericRepository<T>.AddAsync(T)*w
+! !(#k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*5
+!- !(3)
+'
+doctorAmazeCare.DAL.Entities.Doctor2AddAsync(T)˚¯
+" "(/*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*w
+" "(#k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository2SaveAsync()*
+2*@
+2#	 #(	"1
+# #(	%
+#
+%retSystem.Threading.Tasks.Task:3
+) (6'
+doctorAmazeCare.DAL.Entities.DoctorB(&
+$AmazeCare.BLL.Services.DoctorServiceÃ
+UAmazeCare.BLL.Services.PatientService.AddPatientAsync(AmazeCare.DAL.Entities.Patient)q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs ()"0*
+0 (*
+1*ƒ
+1! "(1Æ´
+! !(6!
+%0System.Threading.Tasks.Task":AmazeCare.DAL.Interfaces.IGenericRepository<T>.AddAsync(T)*z
+! !($n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*7
+!. !(5+
+)
+patientAmazeCare.DAL.Entities.Patient2AddAsync(T)˛˚
+" "(0*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*z
+" "($n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository2SaveAsync()*
+2*@
+2#	 #(	"1
+# #(	%
+#
+%retSystem.Threading.Tasks.Task:5
+* (9)
+patientAmazeCare.DAL.Entities.PatientB)'
+%AmazeCare.BLL.Services.PatientService•
+UAmazeCare.BLL.Services.DoctorService.UpdateDoctorAsync(AmazeCare.DAL.Entities.Doctor)p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs% %(+"0*
+0% %(*
+1*°
+1' ((0éã
+' '(,
+
+%0void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Update(T)*w
+' '(k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*5
+'% '(+)
+'
+doctorAmazeCare.DAL.Entities.Doctor2	Update(T)˚¯
+( ((/*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*w
+( ((#k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository2SaveAsync()*
+2*@
+2)	 )(	"1
+) )(	%
+#
+%retSystem.Threading.Tasks.Task:3
+%, %(9'
+doctorAmazeCare.DAL.Entities.DoctorB(&
+$AmazeCare.BLL.Services.DoctorServiceñ
+RAmazeCare.BLL.Services.AdminService.UpdateAdminAsync(AmazeCare.DAL.Entities.Admin)o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs% %(*"0*
+0% %(*
+1*ô
+1' ((/âÜ
+' '(*
+
+%0void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Update(T)*t
+' '(h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*3
+'$ '()'
+%
+adminAmazeCare.DAL.Entities.Admin2	Update(T)¯ı
+( ((.*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*t
+( (("h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository2SaveAsync()*
+2*@
+2)	 )(	"1
+) )(	%
+#
+%retSystem.Threading.Tasks.Task:1
+%+ %(6%
+adminAmazeCare.DAL.Entities.AdminB'%
+#AmazeCare.BLL.Services.AdminServiceÚ
+dAmazeCare.BLL.Services.AppointmentService.UpdateAppointmentAsync(AmazeCare.DAL.Entities.Appointment)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs% %(0"0*
+0% %(*
+1*À
+1' ((5®•
+' '(6
+
+%0void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Update(T)*Ü
+' '("z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*?
+'* '(53
+1
+appointment"AmazeCare.DAL.Entities.Appointment2	Update(T)ãà
+( ((4*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*Ü
+( (((z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository2SaveAsync()*
+2*@
+2)	 )(	"1
+) )(	%
+#
+%retSystem.Threading.Tasks.Task:=
+%1 %(H1
+appointment"AmazeCare.DAL.Entities.AppointmentB-+
+)AmazeCare.BLL.Services.AppointmentService¥
+XAmazeCare.BLL.Services.PatientService.UpdatePatientAsync(AmazeCare.DAL.Entities.Patient)q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs% %(,"0*
+0% %(*
+1*©
+1' ((1ìê
+' '(.
+
+%0void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Update(T)*z
+' '(n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*7
+'& '(-+
+)
+patientAmazeCare.DAL.Entities.Patient2	Update(T)˛˚
+( ((0*
+%1$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*z
+( (($n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository2SaveAsync()*
+2*@
+2)	 )(	"1
+) )(	%
+#
+%retSystem.Threading.Tasks.Task:5
+%- %(<)
+patientAmazeCare.DAL.Entities.PatientB)'
+%AmazeCare.BLL.Services.PatientServiceÌ
+EAmazeCare.BLL.Services.AppointmentService.DeleteAppointmentAsync(int)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs+ +(0"0*
+0+ +(*
+1*ø
+1- .(#∞≠
+-$ -(K*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*Ü
+-$ -(:z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*
+-H -(J
+	
+idint2GetByIdAsync(int)u
+s
+- -(K1
+appointment"AmazeCare.DAL.Entities.Appointment"__id*.,
+*
+%0$System.Threading.Tasks.Task<TResult>~
+|
+. .(#
+
+%1bool"	__compare*
+!=*?
+. .(3
+1
+appointment"AmazeCare.DAL.Entities.Appointment*
+. .(# *
+2
+3*À
+20 1(9®•
+0 0(:
+
+%2void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Delete(T)*Ü
+0 0(&z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*?
+0. 0(93
+1
+appointment"AmazeCare.DAL.Entities.Appointment2	Delete(T)ãà
+1 1(8*
+%3$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*Ü
+1 1(,z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository2SaveAsync()*
+3*@
+33	 3(	"1
+3 3(	%
+#
+%retSystem.Threading.Tasks.Task:
++1 +(7	
+idintB-+
+)AmazeCare.BLL.Services.AppointmentServiceû
+=AmazeCare.BLL.Services.PatientService.DeletePatientAsync(int)q
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs+ +(,"0*
+0+ +(*
+1*¢
+1- .(£†
+-  -(C*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*z
+-  -(2n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*
+-@ -(B
+	
+idint2GetByIdAsync(int)m
+k
+- -(C)
+patientAmazeCare.DAL.Entities.Patient"__id*.,
+*
+%0$System.Threading.Tasks.Task<TResult>v
+t
+. .(
+
+%1bool"	__compare*
+!=*7
+. .(+
+)
+patientAmazeCare.DAL.Entities.Patient*
+. .( *
+2
+3*©
+20 1(5ìê
+0 0(2
+
+%2void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Delete(T)*z
+0 0("n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository*7
+0* 0(1+
+)
+patientAmazeCare.DAL.Entities.Patient2	Delete(T)˛˚
+1 1(4*
+%3$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*z
+1 1((n*l'
+%AmazeCare.BLL.Services.PatientService"A
+_patientRepository+AmazeCare.DAL.Interfaces.IPatientRepository2SaveAsync()*
+3*@
+33	 3(	"1
+3 3(	%
+#
+%retSystem.Threading.Tasks.Task:
++- +(3	
+idintB)'
+%AmazeCare.BLL.Services.PatientService¯
+
+9AmazeCare.BLL.Services.AdminService.DeleteAdminAsync(int)o
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs+ +(*"0*
+0+ +(*
+1*î
+1- .(ùö
+- -(?*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*t
+- -(.h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*
+-< -(>
+	
+idint2GetByIdAsync(int)i
+g
+- -(?%
+adminAmazeCare.DAL.Entities.Admin"__id*.,
+*
+%0$System.Threading.Tasks.Task<TResult>r
+p
+. .(
+
+%1bool"	__compare*
+!=*3
+. .('
+%
+adminAmazeCare.DAL.Entities.Admin*
+. .( *
+2
+3*ô
+20 1(3âÜ
+0 0(.
+
+%2void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Delete(T)*t
+0 0( h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository*3
+0( 0(-'
+%
+adminAmazeCare.DAL.Entities.Admin2	Delete(T)¯ı
+1 1(2*
+%3$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*t
+1 1(&h*f%
+#AmazeCare.BLL.Services.AdminService"=
+_adminRepository)AmazeCare.DAL.Interfaces.IAdminRepository2SaveAsync()*
+3*@
+33	 3(	"1
+3 3(	%
+#
+%retSystem.Threading.Tasks.Task:
+++ +(1	
+idintB'%
+#AmazeCare.BLL.Services.AdminServiceã
+;AmazeCare.BLL.Services.DoctorService.DeleteDoctorAsync(int)p
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs+ +(+"0*
+0+ +(*
+1*õ
+1- .(†ù
+- -(A*
+%0$System.Threading.Tasks.Task<TResult>"@AmazeCare.DAL.Interfaces.IGenericRepository<T>.GetByIdAsync(int)*w
+- -(0k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*
+-> -(@
+	
+idint2GetByIdAsync(int)k
+i
+- -(A'
+doctorAmazeCare.DAL.Entities.Doctor"__id*.,
+*
+%0$System.Threading.Tasks.Task<TResult>t
+r
+. .(
+
+%1bool"	__compare*
+!=*5
+. .()
+'
+doctorAmazeCare.DAL.Entities.Doctor*
+. .( *
+2
+3*°
+20 1(4éã
+0 0(0
+
+%2void"8AmazeCare.DAL.Interfaces.IGenericRepository<T>.Delete(T)*w
+0 0(!k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository*5
+0) 0(/)
+'
+doctorAmazeCare.DAL.Entities.Doctor2	Delete(T)˚¯
+1 1(3*
+%3$System.Threading.Tasks.Task<TResult>":AmazeCare.DAL.Interfaces.IGenericRepository<T>.SaveAsync()*w
+1 1('k*i&
+$AmazeCare.BLL.Services.DoctorService"?
+_doctorRepository*AmazeCare.DAL.Interfaces.IDoctorRepository2SaveAsync()*
+3*@
+33	 3(	"1
+3 3(	%
+#
+%retSystem.Threading.Tasks.Task:
++, +(2	
+idintB(&
+$AmazeCare.BLL.Services.DoctorServiceÏ
+MAmazeCare.BLL.Services.AppointmentService.GetAppointmentsByDoctorIdAsync(int)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs54 5(R"0*
+05 5(*
+1*±
+17 7(X€ÿ
+7 7(X*
+%0$System.Threading.Tasks.Task<TResult>"SAmazeCare.DAL.Interfaces.IAppointmentRepository.GetAppointmentsByDoctorIdAsync(int)*Ü
+7 7(/z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*
+7O 7(W
+
+doctorIdint2#GetAppointmentsByDoctorIdAsync(int)æ
+ª
+7 7(Xo
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>"__id*8
+7 7(X,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*å
+28	 8(	"}
+8 8(	q
+o
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>:
+5S 5(_
+doctorIdintB-+
+)AmazeCare.BLL.Services.AppointmentServiceÒ
+NAmazeCare.BLL.Services.AppointmentService.GetAppointmentsByPatientIdAsync(int)u
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs:4 :(S"0*
+0: :(*
+1*¥
+1< <(Zﬁ€
+< <(Z*
+%0$System.Threading.Tasks.Task<TResult>"TAmazeCare.DAL.Interfaces.IAppointmentRepository.GetAppointmentsByPatientIdAsync(int)*Ü
+< <(/z*x+
+)AmazeCare.BLL.Services.AppointmentService"I
+_appointmentRepository/AmazeCare.DAL.Interfaces.IAppointmentRepository*
+<P <(Y
+
+	patientIdint2$GetAppointmentsByPatientIdAsync(int)æ
+ª
+< <(Zo
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>"__id*8
+< <(Z,
+*
+%0$System.Threading.Tasks.Task<TResult>*
+2*å
+2=	 =(	"}
+= =(	q
+o
+%retgSystem.Threading.Tasks.Task<System.Collections.Generic.IEnumerable<AmazeCare.DAL.Entities.Appointment>>:
+:T :(a
+	patientIdintB-+
+)AmazeCare.BLL.Services.AppointmentService

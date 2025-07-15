@@ -1,0 +1,14 @@
+﻿@model AmazeCare.WEB.Models.AdminAdmin.AdminResponseViewModel
+@{
+    ViewBag.Title = "Admin Details";
+}
+<h2>Admin Details</h2>
+<dl class="row">
+    <dt class="col-sm-2">AdminId</dt>
+    <dd class="col-sm-10">@Model.AdminId</dd>
+    <dt class="col-sm-2">Name</dt>
+    <dd class="col-sm-10">@Model.Name</dd>
+    <dt class="col-sm-2">Email</dt>
+    <dd class="col-sm-10">@Model.Email</dd>
+</dl>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

@@ -1,0 +1,45 @@
+﻿@model AmazeCare.WEB.Models.AdminDoctor.DoctorUpdateViewModel
+@{
+    ViewBag.Title = "Edit Doctor";
+}
+<h2>Edit Doctor</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="DoctorId" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Specialty"></label>
+        <input asp-for="Specialty" class="form-control" />
+        <span asp-validation-for="Specialty" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Experience"></label>
+        <input asp-for="Experience" class="form-control" type="number" min="0" max="100" />
+        <span asp-validation-for="Experience" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Qualification"></label>
+        <input asp-for="Qualification" class="form-control" />
+        <span asp-validation-for="Qualification" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Designation"></label>
+        <input asp-for="Designation" class="form-control" />
+        <span asp-validation-for="Designation" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

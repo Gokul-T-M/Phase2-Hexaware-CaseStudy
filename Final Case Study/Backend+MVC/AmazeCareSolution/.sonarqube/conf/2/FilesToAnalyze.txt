@@ -1,0 +1,9 @@
+﻿C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Class1.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IAdminService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IAppointmentService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IDoctorService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IPatientService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.cs
+C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.cs

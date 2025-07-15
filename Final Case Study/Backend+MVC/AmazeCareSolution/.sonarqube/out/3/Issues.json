@@ -1,0 +1,162 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25112.7 (afe5bc4a)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Converting null literal or possible null value to non-nullable type.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.BLL.Tests/AdminServiceTests.cs",
+                "region": {
+                  "startLine": 78,
+                  "startColumn": 83,
+                  "endLine": 78,
+                  "endColumn": 94
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_adminRepositoryMock' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.BLL.Tests/AdminServiceTests.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 40,
+                  "endLine": 14,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.BLL.Tests/AdminServiceTests.cs",
+                "region": {
+                  "startLine": 14,
+                  "startColumn": 40,
+                  "endLine": 14,
+                  "endColumn": 60
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable field '_adminService' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the field as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.BLL.Tests/AdminServiceTests.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 30,
+                  "endLine": 15,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.BLL.Tests/AdminServiceTests.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 30,
+                  "endLine": 15,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "AD0001",
+          "level": "warning",
+          "message": "Analyzer 'NUnit.Analyzers.UseAssertMultiple.UseAssertMultipleAnalyzer' threw an exception of type 'System.IndexOutOfRangeException' with message 'Index was outside the bounds of the array.'.\u000d\u000aException occurred with following context:\u000d\u000aCompilation: AmazeCare.BLL.Tests\u000d\u000aIOperation: Invocation\u000d\u000aSyntaxTree: C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\UnitTest1.cs\u000d\u000aSyntaxNode: Assert.Pass() [InvocationExpressionSyntax]@[203..216) (12,12)-(12,25)\u000d\u000a\u000d\u000aSystem.IndexOutOfRangeException: Index was outside the bounds of the array.\u000d\u000a   at NUnit.Analyzers.UseAssertMultiple.UseAssertMultipleAnalyzer.AnalyzeAssertInvocation(OperationAnalysisContext context, IInvocationOperation assertOperation)\u000d\u000a   at NUnit.Analyzers.BaseAssertionAnalyzer.AnalyzeInvocation(OperationAnalysisContext context)\u000d\u000a   at Microsoft.CodeAnalysis.Diagnostics.AnalyzerExecutor.ExecuteAndCatchIfThrows_NoLock[TArg](DiagnosticAnalyzer analyzer, Action`1 analyze, TArg argument, Nullable`1 info, CancellationToken cancellationToken)\u000d\u000a-----\u000d\u000a\u000d\u000aSuppress the following diagnostics to disable this analyzer: NUnit2045",
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "AD0001": {
+          "id": "AD0001",
+          "shortDescription": "Analyzer Failure",
+          "defaultLevel": "warning",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "AnalyzerException"
+            ]
+          }
+        },
+        "CS8600": {
+          "id": "CS8600",
+          "shortDescription": "Converting null literal or possible null value to non-nullable type.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8600)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

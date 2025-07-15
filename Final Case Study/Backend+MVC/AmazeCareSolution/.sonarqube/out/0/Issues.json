@@ -1,0 +1,1233 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "4.13.0.0",
+        "fileVersion": "4.13.0-3.25112.7 (afe5bc4a)",
+        "semanticVersion": "4.13.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Admin.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Gender' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 33,
+                  "startColumn": 23,
+                  "endLine": 33,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'ContactNumber' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Appointments' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 41,
+                  "endLine": 42,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Patient.cs",
+                "region": {
+                  "startLine": 42,
+                  "startColumn": 41,
+                  "endLine": 42,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Name' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 23,
+                  "endLine": 18,
+                  "endColumn": 27
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Email' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 23,
+                  "endLine": 22,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Password' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 25,
+                  "startColumn": 23,
+                  "endLine": 25,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Specialty' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 28,
+                  "startColumn": 23,
+                  "endLine": 28,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Qualification' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 23,
+                  "endLine": 34,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 23,
+                  "endLine": 34,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Designation' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 23,
+                  "endLine": 37,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Appointments' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 41,
+                  "endLine": 39,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Doctor.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 41,
+                  "endLine": 39,
+                  "endColumn": 53
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Status' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 23,
+                  "endLine": 23,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 23,
+                  "endLine": 23,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Patient' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 31
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Doctor' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 23,
+                  "endLine": 45,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Entities/Appointment.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 23,
+                  "endLine": 45,
+                  "endColumn": 29
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Patients' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 18,
+                  "startColumn": 31,
+                  "endLine": 18,
+                  "endColumn": 39
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Doctors' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 30,
+                  "endLine": 19,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Appointments' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 35,
+                  "endLine": 20,
+                  "endColumn": 47
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8618",
+          "level": "warning",
+          "message": "Non-nullable property 'Admins' must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring the property as nullable.",
+          "suppressionStates": [
+            "suppressedInSource"
+          ],
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 16,
+                  "endLine": 13,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Context/AmazeCareDbContext.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 29,
+                  "endLine": 21,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2094",
+          "level": "warning",
+          "message": "Remove this empty class, write its code or make it an \"interface\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Class1.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 18,
+                  "endLine": 3,
+                  "endColumn": 24
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'SqlServer:Identity' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 37,
+                  "endLine": 19,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 34,
+                  "startColumn": 37,
+                  "endLine": 34,
+                  "endColumn": 57
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 53,
+                  "startColumn": 37,
+                  "endLine": 53,
+                  "endColumn": 57
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 72,
+                  "startColumn": 37,
+                  "endLine": 72,
+                  "endColumn": 57
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Appointments' 6 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 24,
+                  "endLine": 15,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 24,
+                  "endLine": 22,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 29,
+                  "startColumn": 24,
+                  "endLine": 29,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 24,
+                  "endLine": 40,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 44,
+                  "startColumn": 24,
+                  "endLine": 44,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701111346_AddConsultingFieldsToAppointment.cs",
+                "region": {
+                  "startLine": 48,
+                  "startColumn": 24,
+                  "endLine": 48,
+                  "endColumn": 38
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'nvarchar(max)' 11 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 21,
+                  "startColumn": 56,
+                  "endLine": 21,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 22,
+                  "startColumn": 59,
+                  "endLine": 22,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 36,
+                  "startColumn": 56,
+                  "endLine": 36,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 37,
+                  "startColumn": 59,
+                  "endLine": 37,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 38,
+                  "startColumn": 60,
+                  "endLine": 38,
+                  "endColumn": 75
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 40,
+                  "startColumn": 64,
+                  "endLine": 40,
+                  "endColumn": 79
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 62,
+                  "endLine": 41,
+                  "endColumn": 77
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 56,
+                  "endLine": 55,
+                  "endColumn": 71
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 56,
+                  "startColumn": 59,
+                  "endLine": 56,
+                  "endColumn": 74
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 59,
+                  "startColumn": 64,
+                  "endLine": 59,
+                  "endColumn": 79
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 74,
+                  "startColumn": 57,
+                  "endLine": 74,
+                  "endColumn": 72
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null,
+              "3": null,
+              "4": null,
+              "5": null,
+              "6": null,
+              "7": null,
+              "8": null,
+              "9": null
+            }
+          }
+        },
+        {
+          "ruleId": "S1192",
+          "level": "warning",
+          "message": "Define a constant instead of using this literal 'Appointments' 4 times.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 68,
+                  "startColumn": 23,
+                  "endLine": 68,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 98,
+                  "startColumn": 24,
+                  "endLine": 98,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 103,
+                  "startColumn": 24,
+                  "endLine": 103,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/gokul/OneDrive/Desktop/C%23_workspace/AmazeCareSolution/AmazeCare.DAL/Migrations/20250701055858_InitialCreate.cs",
+                "region": {
+                  "startLine": 114,
+                  "startColumn": 23,
+                  "endLine": 114,
+                  "endColumn": 37
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": null,
+              "1": null,
+              "2": null
+            }
+          }
+        }
+      ],
+      "rules": {
+        "CS8618": {
+          "id": "CS8618",
+          "shortDescription": "Non-nullable field must contain a non-null value when exiting constructor. Consider adding the 'required' modifier or declaring as nullable.",
+          "defaultLevel": "warning",
+          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS8618)",
+          "properties": {
+            "category": "Compiler",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Compiler",
+              "Telemetry"
+            ]
+          }
+        },
+        "S1192": {
+          "id": "S1192",
+          "shortDescription": "String literals should not be duplicated",
+          "fullDescription": "Duplicated string literals make the process of refactoring complex and error-prone, as any change would need to be propagated on all occurrences.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1192",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "SonarWay"
+            ]
+          }
+        },
+        "S2094": {
+          "id": "S2094",
+          "shortDescription": "Classes should not be empty",
+          "fullDescription": "There is no good excuse for an empty class. If it’s being used simply as a common extension point, it should be replaced with an interface. If it was stubbed in as a placeholder for future development it should be fleshed-out. In any other case, it should be eliminated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2094",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

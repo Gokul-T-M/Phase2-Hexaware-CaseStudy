@@ -1,0 +1,149 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AmazeCare.WEB
+build_property.RootNamespace = AmazeCare.WEB
+build_property.ProjectDir = C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.WEB\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.WEB
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 6.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAdmin/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAdmin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAdmin/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAdmin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAdmin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BZG1pblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/ByDoctor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxCeURvY3Rvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/ByDoctorResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxCeURvY3RvclJlc3VsdHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/ByPatient.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxCeVBhdGllbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/ByPatientResults.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxCeVBhdGllbnRSZXN1bHRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminAppointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5BcHBvaW50bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminDoctor/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminDoctor/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminDoctor/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminDoctor/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminDoctor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5Eb2N0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminPatient/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminPatient/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminPatient/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminPatient/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/AdminPatient/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5QYXRpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Admin/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Admin/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gokul/OneDrive/Desktop/C\#_workspace/AmazeCareSolution/AmazeCare.WEB/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-kwneswczfs

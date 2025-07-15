@@ -1,0 +1,1 @@
+ƒRmC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL.Tests\AmazeCare.BLL.Tests.csproj¢net6.0òCSharp10

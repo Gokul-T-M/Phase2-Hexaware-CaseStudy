@@ -1,0 +1,23 @@
+﻿@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<div class="d-flex flex-column align-items-center justify-content-center" style="min-height: 70vh;">
+    <h2 class="mb-4">Welcome !</h2>
+    <p class="mb-5 text-center">This is the Admin Dashboard. Use the buttons below to manage different sections.</p>
+    <div class="row justify-content-center w-100">
+        <div class="col-12 col-md-6 col-lg-3 mb-4 d-flex justify-content-center">
+            <a asp-controller="AdminAdmin" asp-action="Index" class="btn btn-primary btn-lg w-100 py-4">Admin Management</a>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 mb-4 d-flex justify-content-center">
+            <a asp-controller="AdminDoctor" asp-action="Index" class="btn btn-success btn-lg w-100 py-4">Doctor Management</a>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 mb-4 d-flex justify-content-center">
+            <a asp-controller="AdminPatient" asp-action="Index" class="btn btn-info btn-lg w-100 py-4">Patient Management</a>
+        </div>
+        <div class="col-12 col-md-6 col-lg-3 mb-4 d-flex justify-content-center">
+            <a asp-controller="AdminAppointment" asp-action="Index" class="btn btn-warning btn-lg w-100 py-4">Appointment Management</a>
+        </div>
+    </div>
+    <a asp-action="Logout" class="btn btn-outline-danger mt-4">Logout</a>
+</div>

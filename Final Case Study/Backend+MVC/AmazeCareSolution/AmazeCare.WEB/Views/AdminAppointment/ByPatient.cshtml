@@ -1,0 +1,16 @@
+﻿@{
+    ViewBag.Title = "Find Appointments by Patient";
+}
+
+<h2>Find Appointments by Patient</h2>
+
+<form asp-action="ByPatient" method="post" class="mb-3">
+    <div class="input-group">
+        <input type="number" name="patientId" class="form-control" placeholder="Enter Patient ID" required />
+        <button type="submit" class="btn btn-primary">Search</button>
+    </div>
+</form>
+
+<button onclick="window.location.href='/AdminAppointment/Index'" class="btn btn-secondary">
+    Return to Home
+</button>

@@ -1,0 +1,21 @@
+﻿@model AmazeCare.WEB.Models.AdminPatient.PatientResponseViewModel
+@{
+    ViewBag.Title = "Patient Details";
+}
+
+<h2>Patient Details</h2>
+<dl class="row">
+    <dt class="col-sm-3">Name</dt>
+    <dd class="col-sm-9">@Model.Name</dd>
+    <dt class="col-sm-3">Email</dt>
+    <dd class="col-sm-9">@Model.Email</dd>
+    <dt class="col-sm-3">Contact Number</dt>
+    <dd class="col-sm-9">@Model.ContactNumber</dd>
+    <dt class="col-sm-3">Date of Birth</dt>
+    <dd class="col-sm-9">@Model.DateOfBirth.ToShortDateString()</dd>
+    <dt class="col-sm-3">Gender</dt>
+    <dd class="col-sm-9">@Model.Gender</dd>
+    <dt class="col-sm-3">Medical Records</dt>
+    <dd class="col-sm-9">@Model.PreviousMedicalRecords</dd>
+</dl>
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>

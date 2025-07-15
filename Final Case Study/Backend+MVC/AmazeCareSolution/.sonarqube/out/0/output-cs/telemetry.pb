@@ -1,0 +1,1 @@
+wRaC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.DAL\AmazeCare.DAL.csproj¢net6.0òCSharp10

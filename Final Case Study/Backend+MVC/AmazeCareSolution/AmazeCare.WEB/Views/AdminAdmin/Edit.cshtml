@@ -1,0 +1,25 @@
+﻿@model AmazeCare.WEB.Models.AdminAdmin.AdminUpdateViewModel
+@{
+    ViewBag.Title = "Edit Admin";
+}
+<h2>Edit Admin</h2>
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="AdminId" />
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" class="form-control" type="password" />
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <button type="submit" class="btn btn-primary">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,266 @@
+1
+Programobject
+	Program()Program.Program()§
++AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTOobjectP
+AdminCreateDTO()<AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.AdminCreateDTO()@
+Name.get4AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Name.get@
+Name.set4AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Name.setB
+	Email.get5AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Email.getB
+	Email.set5AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Email.setH
+Password.get8AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Password.getH
+Password.set8AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO.Password.set·
+-AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTOobjectV
+AdminResponseDTO()@AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.AdminResponseDTO()H
+AdminId.get9AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.AdminId.getH
+AdminId.set9AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.AdminId.setB
+Name.get6AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.Name.getB
+Name.set6AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.Name.setD
+	Email.get7AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.Email.getD
+	Email.set7AmazeCare.API.DTOs.AdminDTOs.AdminResponseDTO.Email.set·
++AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTOobjectP
+AdminUpdateDTO()<AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.AdminUpdateDTO()F
+AdminId.get7AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.AdminId.getF
+AdminId.set7AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.AdminId.set@
+Name.get4AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Name.get@
+Name.set4AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Name.setB
+	Email.get5AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Email.getB
+	Email.set5AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Email.setH
+Password.get8AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Password.getH
+Password.set8AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO.Password.set«
+,AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTOobjectS
+LoginRequestDTO()>AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO.LoginRequestDTO()C
+	Email.get6AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO.Email.getC
+	Email.set6AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO.Email.setI
+Password.get9AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO.Password.getI
+Password.set9AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO.Password.setË
+7AmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTOobjecth
+AppointmentCreateDTO()NAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.AppointmentCreateDTO()T
+DoctorId.getDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.DoctorId.getT
+DoctorId.setDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.DoctorId.setb
+AppointmentDate.getKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.AppointmentDate.getb
+AppointmentDate.setKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.AppointmentDate.setT
+Symptoms.getDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.Symptoms.getT
+Symptoms.setDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO.Symptoms.set³
+,AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTOobjectU
+RegisterAdminDTO()?AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.RegisterAdminDTO()A
+Name.get5AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Name.getA
+Name.set5AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Name.setC
+	Email.get6AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Email.getC
+	Email.set6AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Email.setI
+Password.get9AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Password.getI
+Password.set9AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO.Password.setÅ	
+-AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTOobjectT
+DoctorCreateDTO()?AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.DoctorCreateDTO()B
+Name.get6AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Name.getB
+Name.set6AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Name.setD
+	Email.get7AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Email.getD
+	Email.set7AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Email.setJ
+Password.get:AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Password.getJ
+Password.set:AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Password.setL
+Specialty.get;AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Specialty.getL
+Specialty.set;AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Specialty.setN
+Experience.get<AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Experience.getN
+Experience.set<AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Experience.setT
+Qualification.get?AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Qualification.getT
+Qualification.set?AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Qualification.setP
+Designation.get=AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Designation.getP
+Designation.set=AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO.Designation.set‹
+
+/AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTOobjectX
+PatientCreateDTO()BAmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.PatientCreateDTO()D
+Name.get8AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Name.getD
+Name.set8AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Name.setF
+	Email.get9AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Email.getF
+	Email.set9AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Email.setL
+Password.get<AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Password.getL
+Password.set<AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Password.setV
+ContactNumber.getAAmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.ContactNumber.getV
+ContactNumber.setAAmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.ContactNumber.setR
+DateOfBirth.get?AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.DateOfBirth.getR
+DateOfBirth.set?AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.DateOfBirth.setH
+
+Gender.get:AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Gender.getH
+
+Gender.set:AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.Gender.seth
+PreviousMedicalRecords.getJAmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.PreviousMedicalRecords.geth
+PreviousMedicalRecords.setJAmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO.PreviousMedicalRecords.seté	
+/AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTOobjectZ
+DoctorResponseDTO()CAmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.DoctorResponseDTO()L
+DoctorId.get<AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.DoctorId.getL
+DoctorId.set<AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.DoctorId.setD
+Name.get8AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Name.getD
+Name.set8AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Name.setF
+	Email.get9AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Email.getF
+	Email.set9AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Email.setN
+Specialty.get=AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Specialty.getN
+Specialty.set=AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Specialty.setP
+Experience.get>AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Experience.getP
+Experience.set>AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Experience.setV
+Qualification.getAAmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Qualification.getV
+Qualification.setAAmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Qualification.setR
+Designation.get?AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Designation.getR
+Designation.set?AmazeCare.API.DTOs.DoctorDTOs.DoctorResponseDTO.Designation.setÇ
+7AmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTOobjecth
+AppointmentUpdateDTO()NAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.AppointmentUpdateDTO()^
+AppointmentId.getIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.AppointmentId.get^
+AppointmentId.setIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.AppointmentId.setf
+ConsultingDetails.getMAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.ConsultingDetails.getf
+ConsultingDetails.setMAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.ConsultingDetails.set^
+Prescriptions.getIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.Prescriptions.get^
+Prescriptions.setIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.Prescriptions.setd
+RecommendedTests.getLAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.RecommendedTests.getd
+RecommendedTests.setLAmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO.RecommendedTests.seté
+PatientController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectŒ
+;PatientController(AmazeCare.BLL.Interfaces.IPatientService)MPatientController.PatientController(AmazeCare.BLL.Interfaces.IPatientService)&
+GetAll()PatientController.GetAll()&
+Get(int)PatientController.Get(int)„
+7Create(AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO)IPatientController.Create(AmazeCare.API.DTOs.PatientDTOs.PatientCreateDTO)Ž
+<Update(int, AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO)NPatientController.Update(int, AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO),
+Delete(int)PatientController.Delete(int)É	
+-AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTOobjectX
+RegisterDoctorDTO()AAmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.RegisterDoctorDTO()B
+Name.get6AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Name.getB
+Name.set6AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Name.setD
+	Email.get7AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Email.getD
+	Email.set7AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Email.setJ
+Password.get:AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Password.getJ
+Password.set:AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Password.setL
+Specialty.get;AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Specialty.getL
+Specialty.set;AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Specialty.setN
+Experience.get<AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Experience.getN
+Experience.set<AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Experience.setT
+Qualification.get?AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Qualification.getT
+Qualification.set?AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Qualification.setP
+Designation.get=AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Designation.getP
+Designation.set=AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO.Designation.setÂ
+AdminController'Microsoft.AspNetCore.Mvc.ControllerBaseobject‚
+7AdminController(AmazeCare.BLL.Interfaces.IAdminService)GAdminController.AdminController(AmazeCare.BLL.Interfaces.IAdminService)$
+GetAll()AdminController.GetAll()$
+Get(int)AdminController.Get(int)z
+3Create(AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO)CAdminController.Create(AmazeCare.API.DTOs.AdminDTOs.AdminCreateDTO)„
+8Update(int, AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO)HAdminController.Update(int, AmazeCare.API.DTOs.AdminDTOs.AdminUpdateDTO)*
+Delete(int)AdminController.Delete(int)³
+
+1AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTOobject^
+PatientResponseDTO()FAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.PatientResponseDTO()P
+PatientId.get?AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.PatientId.getP
+PatientId.set?AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.PatientId.setF
+Name.get:AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Name.getF
+Name.set:AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Name.setH
+	Email.get;AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Email.getH
+	Email.set;AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Email.setX
+ContactNumber.getCAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.ContactNumber.getX
+ContactNumber.setCAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.ContactNumber.setT
+DateOfBirth.getAAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.DateOfBirth.getT
+DateOfBirth.setAAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.DateOfBirth.setJ
+
+Gender.get<AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Gender.getJ
+
+Gender.set<AmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.Gender.setj
+PreviousMedicalRecords.getLAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.PreviousMedicalRecords.getj
+PreviousMedicalRecords.setLAmazeCare.API.DTOs.PatientDTOs.PatientResponseDTO.PreviousMedicalRecords.set­
+.AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTOobject[
+RegisterPatientDTO()CAmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.RegisterPatientDTO()C
+Name.get7AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Name.getC
+Name.set7AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Name.setE
+	Email.get8AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Email.getE
+	Email.set8AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Email.setK
+Password.get;AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Password.getK
+Password.set;AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Password.setU
+ContactNumber.get@AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.ContactNumber.getU
+ContactNumber.set@AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.ContactNumber.setQ
+DateOfBirth.get>AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.DateOfBirth.getQ
+DateOfBirth.set>AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.DateOfBirth.setG
+
+Gender.get9AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Gender.getG
+
+Gender.set9AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO.Gender.setÕ
+DoctorController'Microsoft.AspNetCore.Mvc.ControllerBaseobject‡
+9DoctorController(AmazeCare.BLL.Interfaces.IDoctorService)JDoctorController.DoctorController(AmazeCare.BLL.Interfaces.IDoctorService)%
+GetAll()DoctorController.GetAll()%
+Get(int)DoctorController.Get(int)
+5Create(AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO)FDoctorController.Create(AmazeCare.API.DTOs.DoctorDTOs.DoctorCreateDTO)‰
+:Update(int, AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO)KDoctorController.Update(int, AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO)+
+Delete(int)DoctorController.Delete(int)Û
+9AmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTOobjectn
+AppointmentResponseDTO()RAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.AppointmentResponseDTO()`
+AppointmentId.getKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.AppointmentId.get`
+AppointmentId.setKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.AppointmentId.set\
+PatientName.getIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.PatientName.get\
+PatientName.setIAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.PatientName.setX
+PatientId.getGAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.PatientId.getX
+PatientId.setGAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.PatientId.setZ
+DoctorName.getHAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.DoctorName.getZ
+DoctorName.setHAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.DoctorName.setV
+DoctorId.getFAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.DoctorId.getV
+DoctorId.setFAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.DoctorId.setd
+AppointmentDate.getMAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.AppointmentDate.getd
+AppointmentDate.setMAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.AppointmentDate.setV
+Symptoms.getFAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Symptoms.getV
+Symptoms.setFAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Symptoms.setR
+
+Status.getDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Status.getR
+
+Status.setDAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Status.seth
+ConsultingDetails.getOAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.ConsultingDetails.geth
+ConsultingDetails.setOAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.ConsultingDetails.set`
+Prescriptions.getKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Prescriptions.get`
+Prescriptions.setKAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.Prescriptions.setf
+RecommendedTests.getNAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.RecommendedTests.getf
+RecommendedTests.setNAmazeCare.API.DTOs.AppointmentDTOs.AppointmentResponseDTO.RecommendedTests.set«
+/AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTOobjectX
+PatientUpdateDTO()BAmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.PatientUpdateDTO()N
+PatientId.get=AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.PatientId.getN
+PatientId.set=AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.PatientId.setD
+Name.get8AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Name.getD
+Name.set8AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Name.setF
+	Email.get9AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Email.getF
+	Email.set9AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Email.setL
+Password.get<AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Password.getL
+Password.set<AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Password.setV
+ContactNumber.getAAmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.ContactNumber.getV
+ContactNumber.setAAmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.ContactNumber.setR
+DateOfBirth.get?AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.DateOfBirth.getR
+DateOfBirth.set?AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.DateOfBirth.setH
+
+Gender.get:AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Gender.getH
+
+Gender.set:AmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.Gender.seth
+PreviousMedicalRecords.getJAmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.PreviousMedicalRecords.geth
+PreviousMedicalRecords.setJAmazeCare.API.DTOs.PatientDTOs.PatientUpdateDTO.PreviousMedicalRecords.set×
+AppointmentController'Microsoft.AspNetCore.Mvc.ControllerBaseobjectÈ
+–AppointmentController(AmazeCare.BLL.Interfaces.IAppointmentService, AmazeCare.BLL.Interfaces.IPatientService, AmazeCare.BLL.Interfaces.IDoctorService)¬AppointmentController.AppointmentController(AmazeCare.BLL.Interfaces.IAppointmentService, AmazeCare.BLL.Interfaces.IPatientService, AmazeCare.BLL.Interfaces.IDoctorService)*
+GetAll()AppointmentController.GetAll()*
+Get(int)AppointmentController.Get(int)˜
+?Create(AmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO)UAppointmentController.Create(AmazeCare.API.DTOs.AppointmentDTOs.AppointmentCreateDTO)¢
+DUpdate(int, AmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO)ZAppointmentController.Update(int, AmazeCare.API.DTOs.AppointmentDTOs.AppointmentUpdateDTO)0
+Delete(int)!AppointmentController.Delete(int):
+GetByDoctor(int)&AppointmentController.GetByDoctor(int)<
+GetByPatient(int)'AppointmentController.GetByPatient(int)Œ
+
+(AmazeCare.API.Controllers.AuthController'Microsoft.AspNetCore.Mvc.ControllerBaseobject§
+¼AuthController(AmazeCare.BLL.Interfaces.IPatientService, AmazeCare.BLL.Interfaces.IDoctorService, AmazeCare.BLL.Interfaces.IAdminService, Microsoft.Extensions.Configuration.IConfiguration)åAmazeCare.API.Controllers.AuthController.AuthController(AmazeCare.BLL.Interfaces.IPatientService, AmazeCare.BLL.Interfaces.IDoctorService, AmazeCare.BLL.Interfaces.IAdminService, Microsoft.Extensions.Configuration.IConfiguration)«
+?RegisterPatient(AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO)hAmazeCare.API.Controllers.AuthController.RegisterPatient(AmazeCare.API.DTOs.AuthDTOs.RegisterPatientDTO)§
+=RegisterDoctor(AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO)fAmazeCare.API.Controllers.AuthController.RegisterDoctor(AmazeCare.API.DTOs.AuthDTOs.RegisterDoctorDTO)£
+;RegisterAdmin(AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO)dAmazeCare.API.Controllers.AuthController.RegisterAdmin(AmazeCare.API.DTOs.AuthDTOs.RegisterAdminDTO)“
+3Login(AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO)\AmazeCare.API.Controllers.AuthController.Login(AmazeCare.API.DTOs.AuthDTO_s.LoginRequestDTO)q
+"GenerateToken(string, string, int)KAmazeCare.API.Controllers.AuthController.GenerateToken(string, string, int)Ý
+
+-AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTOobjectT
+DoctorUpdateDTO()?AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.DoctorUpdateDTO()J
+DoctorId.get:AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.DoctorId.getJ
+DoctorId.set:AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.DoctorId.setB
+Name.get6AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Name.getB
+Name.set6AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Name.setD
+	Email.get7AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Email.getD
+	Email.set7AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Email.setJ
+Password.get:AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Password.getJ
+Password.set:AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Password.setL
+Specialty.get;AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Specialty.getL
+Specialty.set;AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Specialty.setN
+Experience.get<AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Experience.getN
+Experience.set<AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Experience.setT
+Qualification.get?AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Qualification.getT
+Qualification.set?AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Qualification.setP
+Designation.get=AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Designation.getP
+Designation.set=AmazeCare.API.DTOs.DoctorDTOs.DoctorUpdateDTO.Designation.set

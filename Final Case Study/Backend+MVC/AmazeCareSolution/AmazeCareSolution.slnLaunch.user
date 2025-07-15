@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AmazeCare.API\\AmazeCare.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "AmazeCare.WEB\\AmazeCare.WEB.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

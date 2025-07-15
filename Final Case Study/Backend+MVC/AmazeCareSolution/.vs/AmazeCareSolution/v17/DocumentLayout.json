@@ -1,0 +1,1754 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll.tests\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|solutionrelative:amazecare.bll.tests\\adminservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|solutionrelative:amazecare.bll.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll.tests\\amazecare.bll.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|solutionrelative:amazecare.bll.tests\\amazecare.bll.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C99831DD-4C32-4C3B-87C6-FBBC4A79A3BD}|AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj|solutionrelative:amazecare.bll.tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\entities\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\repositories\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\interfaces\\idoctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\services\\appointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\services\\doctorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\authdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\authdtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\doctordtos\\doctorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\doctordtos\\doctorresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\patientdtos\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\patientdtos\\patientupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\patientdtos\\patientresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\patientdtos\\patientresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\patientdtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\patientdtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\doctordtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\doctordtos\\doctorupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\doctordtos\\doctorcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\authdtos\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\authdtos\\registerpatientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\authdtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\authdtos\\registerdoctordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\authdtos\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\authdtos\\registeradmindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\appointmentdtos\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\appointmentdtos\\appointmentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\appointmentdtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\appointmentdtos\\appointmentresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\appointmentdtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\appointmentdtos\\appointmentcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\controllers\\adminadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\controllers\\adminadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\controllers\\adminpatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\controllers\\adminpatientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminadmin\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\bypatientresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\bypatientresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\bypatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\bypatient.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\bydoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\bydoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\controllers\\adminappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\controllers\\adminappointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\amazecare.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\amazecare.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminappointment\\bydoctorresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminappointment\\bydoctorresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminpatient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminpatient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminpatient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminpatient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminappointment\\appointmentresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminappointment\\appointmentresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\interfaces\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admindoctor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admindoctor\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminpatient\\patientupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminpatient\\patientupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminpatient\\patientresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminpatient\\patientresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminpatient\\patientcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminpatient\\patientcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admindoctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admindoctor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\controllers\\admindoctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\controllers\\admindoctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\admindoctor\\doctorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\admindoctor\\doctorupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\admindtos\\admincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\admindtos\\admincreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminpatient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminpatient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminpatient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminpatient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminpatient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminpatient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admindoctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admindoctor\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\admindoctor\\doctorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\admindoctor\\doctorcreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\admindoctor\\doctorresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\admindoctor\\doctorresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\interfaces\\iappointmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admin\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\admindtos\\adminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\admindtos\\adminresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admindoctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admindoctor\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\admindoctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\admindoctor\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminadmin\\admincreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminadmin\\admincreateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminadmin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminadmin\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminadmin\\adminresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminadmin\\adminresponseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\views\\adminadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\views\\adminadmin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminadmin\\adminupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminadmin\\adminupdateviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\dtos\\admindtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\dtos\\admindtos\\adminupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\adminloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\adminloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.api\\amazecare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{463EF807-33C9-4638-879F-89D8F4F8BDFE}|AmazeCare.API\\AmazeCare.API.csproj|solutionrelative:amazecare.api\\amazecare.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.web\\models\\registeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1170D69F-8B5A-4131-AE59-D5414F77438F}|AmazeCare.WEB\\AmazeCare.WEB.csproj|solutionrelative:amazecare.web\\models\\registeradminviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.bll\\amazecare.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{767EE7A1-6FB6-4381-A400-1B9BBC98100F}|AmazeCare.BLL\\AmazeCare.BLL.csproj|solutionrelative:amazecare.bll\\amazecare.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\entities\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\interfaces\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\interfaces\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\context\\amazecaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\context\\amazecaredbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\repositories\\doctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\interfaces\\idoctorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\migrations\\20250701165539_renamedsymptomstopreviousmedicalrecordsinpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\migrations\\20250701165539_renamedsymptomstopreviousmedicalrecordsinpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\migrations\\20250701111346_addconsultingfieldstoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\migrations\\20250701111346_addconsultingfieldstoappointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|c:\\users\\gokul\\onedrive\\desktop\\c#_workspace\\amazecaresolution\\amazecare.dal\\migrations\\20250701055858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A44BC3B-F446-49A7-9738-8F27CD538C6C}|AmazeCare.DAL\\AmazeCare.DAL.csproj|solutionrelative:amazecare.dal\\migrations\\20250701055858_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AmazeCare.BLL.Tests",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj",
+              "RelativeDocumentMoniker": "AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj",
+              "RelativeToolTip": "AmazeCare.BLL.Tests\\AmazeCare.BLL.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-15T06:56:05.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\AdminServiceTests.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL.Tests\\AdminServiceTests.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\AdminServiceTests.cs",
+              "RelativeToolTip": "AmazeCare.BLL.Tests\\AdminServiceTests.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwH0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:02:46.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Repositories\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\AdminRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Repositories\\AdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:55:05.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:47:10.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\AdminService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Services\\AdminService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\AdminService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Services\\AdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:22:05.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "AmazeCare.BLL.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T17:52:29.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL.Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL.Tests\\Usings.cs",
+              "RelativeToolTip": "AmazeCare.BLL.Tests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T18:24:47.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Admin.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Entities\\Admin.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Admin.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Entities\\Admin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:07:45.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\AppointmentService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Services\\AppointmentService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\AppointmentService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Services\\AppointmentService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:19:12.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DoctorResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorResponseDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorResponseDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:56:48.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IDoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IDoctorService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Interfaces\\IDoctorService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IDoctorService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Interfaces\\IDoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:14:50.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAdminService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IAdminService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Interfaces\\IAdminService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IAdminService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Interfaces\\IAdminService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:21:28.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Class1.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Class1.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:45:24.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\DoctorService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Services\\DoctorService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\DoctorService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Services\\DoctorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:15:22.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AmazeCare.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwKgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:30:05.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "AmazeCare.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:09:38.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\LoginRequestDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AuthDTOs\\LoginRequestDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\LoginRequestDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AuthDTOs\\LoginRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T14:43:30.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "AmazeCare.API\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwNQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:07:36.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "AmazeCare.API\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwG4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:02:56.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AmazeCare.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-01T12:01:46.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AmazeCare.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\appsettings.json",
+              "RelativeToolTip": "AmazeCare.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-30T12:26:30.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientUpdateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientUpdateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:32:01.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PatientResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientResponseDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientResponseDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:34:16.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientCreateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\PatientDTOs\\PatientCreateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\PatientDTOs\\PatientCreateDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwB0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:31:11.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DoctorUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorUpdateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorUpdateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorUpdateDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:55:40.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\DoctorDTOs\\DoctorCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:55:06.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RegisterPatientDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterPatientDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterPatientDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterPatientDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterPatientDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:07:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegisterDoctorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterDoctorDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterDoctorDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterDoctorDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterDoctorDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:11:51.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegisterAdminDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterAdminDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterAdminDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AuthDTOs\\RegisterAdminDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AuthDTOs\\RegisterAdminDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T10:12:44.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppointmentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentUpdateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:08:39.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppointmentResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentResponseDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentResponseDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:09:04.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppointmentCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentCreateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentCreateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AppointmentDTOs\\AppointmentCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:07:02.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AmazeCare.API\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T06:08:51.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminAdminController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Controllers\\AdminAdminController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminAdminController.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Controllers\\AdminAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:16:49.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AdminPatientController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminPatientController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Controllers\\AdminPatientController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminPatientController.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Controllers\\AdminPatientController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:05:56.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:19:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Delete.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:54:51.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Details.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Details.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\Details.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:54:13.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ByPatientResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByPatientResults.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\ByPatientResults.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByPatientResults.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\ByPatientResults.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:29:47.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAdmin\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Delete.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAdmin\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:19:37.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ByPatient.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByPatient.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\ByPatient.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByPatient.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\ByPatient.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:29:26.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ByDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctor.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctor.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctor.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:23:39.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AdminAppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminAppointmentController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Controllers\\AdminAppointmentController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminAppointmentController.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Controllers\\AdminAppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:37:15.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T05:30:08.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AmazeCare.WEB.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\AmazeCare.WEB.csproj",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\AmazeCare.WEB.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\AmazeCare.WEB.csproj",
+              "RelativeToolTip": "AmazeCare.WEB\\AmazeCare.WEB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-09T09:08:55.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Program.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\Program.cs",
+              "RelativeToolTip": "AmazeCare.API\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAIBJwDgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:48:04.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Class1.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:45:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Patient.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Entities\\Patient.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:53:12.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\Index.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T11:51:13.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ByDoctorResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctorResults.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctorResults.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctorResults.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAppointment\\ByDoctorResults.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T12:28:42.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminPatient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Edit.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminPatient\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAIBJwDEAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T06:17:19.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminPatient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Index.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminPatient\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCIAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T06:15:06.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AppointmentResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAppointment\\AppointmentResponseViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminAppointment\\AppointmentResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAppointment\\AppointmentResponseViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminAppointment\\AppointmentResponseViewModel.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIBQwA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T11:36:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IPatientService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Interfaces\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IPatientService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Interfaces\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:12:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Services\\PatientService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Services\\PatientService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Services\\PatientService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:13:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminDoctor\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Edit.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminDoctor\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T17:20:08.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "PatientUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminPatient\\PatientUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientUpdateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminPatient\\PatientUpdateViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:12:49.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "PatientResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientResponseViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminPatient\\PatientResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientResponseViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminPatient\\PatientResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:07:26.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PatientCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientCreateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminPatient\\PatientCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminPatient\\PatientCreateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminPatient\\PatientCreateViewModel.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T06:11:38.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminDoctor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Index.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminDoctor\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T17:16:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "AdminDoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminDoctorController.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Controllers\\AdminDoctorController.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Controllers\\AdminDoctorController.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Controllers\\AdminDoctorController.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswJUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:11:36.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DoctorUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorUpdateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:10:24.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AdminCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminCreateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminCreateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminCreateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:00:33.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Create.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminPatient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Create.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminPatient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T06:16:29.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminPatient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Delete.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminPatient\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T06:21:48.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Details.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminPatient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminPatient\\Details.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminPatient\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T06:19:29.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminDoctor\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Delete.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminDoctor\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T17:20:27.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Program.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Program.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Program.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:17:17.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AmazeCare.WEB\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T13:10:48.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\appsettings.json",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\appsettings.json",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\appsettings.json",
+              "RelativeToolTip": "AmazeCare.WEB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-06T05:06:27.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DoctorCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorCreateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorCreateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorCreateViewModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA2wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:09:38.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "DoctorResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorResponseViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminDoctor\\DoctorResponseViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminDoctor\\DoctorResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T17:08:48.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IAppointmentService.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IAppointmentService.cs",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\Interfaces\\IAppointmentService.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\Interfaces\\IAppointmentService.cs",
+              "RelativeToolTip": "AmazeCare.BLL\\Interfaces\\IAppointmentService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T12:18:30.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Register.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\Admin\\Register.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Register.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\Admin\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T05:28:50.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Login.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\Admin\\Login.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Admin\\Login.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\Admin\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T05:29:29.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:58:35.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:58:37.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-08T01:58:56.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Details.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminDoctor\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Details.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminDoctor\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T17:16:41.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "AdminResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminResponseDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminResponseDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminResponseDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:01:39.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Index.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:18:01.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Create.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminDoctor\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminDoctor\\Create.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminDoctor\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T17:17:08.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "AdminCreateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminCreateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminCreateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminCreateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminCreateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:14:47.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Details.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAdmin\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Details.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAdmin\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:18:25.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "AdminResponseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminResponseViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminResponseViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminResponseViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminResponseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:14:23.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Create.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAdmin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Create.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAdmin\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:18:48.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Views\\AdminAdmin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Views\\AdminAdmin\\Edit.cshtml",
+              "RelativeToolTip": "AmazeCare.WEB\\Views\\AdminAdmin\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-07T14:19:10.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AdminUpdateViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminUpdateViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminUpdateViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminAdmin\\AdminUpdateViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminAdmin\\AdminUpdateViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T14:15:07.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "AdminUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminUpdateDTO.cs",
+              "RelativeDocumentMoniker": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\DTOs\\AdminDTOs\\AdminUpdateDTO.cs",
+              "RelativeToolTip": "AmazeCare.API\\DTOs\\AdminDTOs\\AdminUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:00:59.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "RegisterAdminViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\RegisterAdminViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\RegisterAdminViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\RegisterAdminViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\RegisterAdminViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:18:30.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "AdminLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminLoginViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\AdminLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\AdminLoginViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\AdminLoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:17:59.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AmazeCare.WEB\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.WEB\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AmazeCare.WEB\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:52:42.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "AmazeCare.API.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\AmazeCare.API.csproj",
+              "RelativeDocumentMoniker": "AmazeCare.API\\AmazeCare.API.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.API\\AmazeCare.API.csproj",
+              "RelativeToolTip": "AmazeCare.API\\AmazeCare.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T09:48:38.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "AmazeCare.BLL.csproj",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\AmazeCare.BLL.csproj",
+              "RelativeDocumentMoniker": "AmazeCare.BLL\\AmazeCare.BLL.csproj",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.BLL\\AmazeCare.BLL.csproj",
+              "RelativeToolTip": "AmazeCare.BLL\\AmazeCare.BLL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-30T09:48:28.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Appointment.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Entities\\Appointment.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Appointment.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Entities\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:55:23.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:54:09.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Interfaces\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IAppointmentRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Interfaces\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:50:04.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Entities\\Doctor.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T09:54:29.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:23:40.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Repositories\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Repositories\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:51:22.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Interfaces\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IPatientRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Interfaces\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:48:36.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "20250701165539_RenamedSymptomsToPreviousMedicalRecordsinPatient.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701165539_RenamedSymptomsToPreviousMedicalRecordsinPatient.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Migrations\\20250701165539_RenamedSymptomsToPreviousMedicalRecordsinPatient.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701165539_RenamedSymptomsToPreviousMedicalRecordsinPatient.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Migrations\\20250701165539_RenamedSymptomsToPreviousMedicalRecordsinPatient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T16:55:39.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "20250701111346_AddConsultingFieldsToAppointment.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701111346_AddConsultingFieldsToAppointment.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Migrations\\20250701111346_AddConsultingFieldsToAppointment.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701111346_AddConsultingFieldsToAppointment.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Migrations\\20250701111346_AddConsultingFieldsToAppointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:13:46.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "20250701055858_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701055858_InitialCreate.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Migrations\\20250701055858_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Migrations\\20250701055858_InitialCreate.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Migrations\\20250701055858_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T05:58:58.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "AmazeCareDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Context\\AmazeCareDbContext.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Context\\AmazeCareDbContext.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Context\\AmazeCareDbContext.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Context\\AmazeCareDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:08:36.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "DoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\DoctorRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Repositories\\DoctorRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Repositories\\DoctorRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Repositories\\DoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:52:51.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:50:39.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "IDoctorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IDoctorRepository.cs",
+              "RelativeDocumentMoniker": "AmazeCare.DAL\\Interfaces\\IDoctorRepository.cs",
+              "ToolTip": "C:\\Users\\gokul\\OneDrive\\Desktop\\C#_workspace\\AmazeCareSolution\\AmazeCare.DAL\\Interfaces\\IDoctorRepository.cs",
+              "RelativeToolTip": "AmazeCare.DAL\\Interfaces\\IDoctorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:49:25.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+†
+{C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\obj\Debug\net6.0\AmazeCare.BLL.AssemblyInfo.csutf-8˜
+ŒC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8ˆ
+}C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\obj\Debug\net6.0\AmazeCare.BLL.GlobalUsings.g.csutf-8p
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\PatientService.csutf-8o
+fC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\DoctorService.csutf-8t
+kC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AppointmentService.csutf-8n
+eC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Services\AdminService.csutf-8s
+jC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IPatientService.csutf-8r
+iC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IDoctorService.csutf-8w
+nC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IAppointmentService.csutf-8q
+hC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Interfaces\IAdminService.csutf-8_
+VC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL\Class1.csutf-8

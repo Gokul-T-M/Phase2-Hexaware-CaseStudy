@@ -1,0 +1,7 @@
+organization=amazecaresolution
+projectKey=amazecaresolution_amazecaresolution
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.65463
+dashboardUrl=https://sonarcloud.io/dashboard?id=amazecaresolution_amazecaresolution
+ceTaskId=AZgMtMdR82glra2SrTwl
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZgMtMdR82glra2SrTwl

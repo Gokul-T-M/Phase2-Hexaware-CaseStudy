@@ -1,0 +1,45 @@
+﻿@model AmazeCare.WEB.Models.AdminAppointment.AppointmentResponseViewModel
+
+@{
+    ViewBag.Title = "Appointment Details";
+}
+
+<h2>Appointment Details</h2>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Date</th>
+        <td>@Model.AppointmentDate.ToString("f")</td>
+    </tr>
+    <tr>
+        <th>Patient</th>
+        <td>@Model.PatientName</td>
+    </tr>
+    <tr>
+        <th>Doctor</th>
+        <td>@Model.DoctorName</td>
+    </tr>
+    <tr>
+        <th>Symptoms</th>
+        <td>@Model.Symptoms</td>
+    </tr>
+    <tr>
+        <th>Status</th>
+        <td>@Model.Status</td>
+    </tr>
+    <tr>
+        <th>Consulting Details</th>
+        <td>@Model.ConsultingDetails</td>
+    </tr>
+    <tr>
+        <th>Prescriptions</th>
+        <td>@Model.Prescriptions</td>
+    </tr>
+    <tr>
+        <th>Recommended Tests</th>
+        <td>@Model.RecommendedTests</td>
+    </tr>
+</table>
+
+<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+

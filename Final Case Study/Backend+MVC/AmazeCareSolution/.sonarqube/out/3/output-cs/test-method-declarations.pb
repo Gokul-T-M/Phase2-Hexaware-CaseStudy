@@ -1,0 +1,11 @@
+È
+gC:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL.Tests\AdminServiceTests.csAmazeCare.BLL.TestsK
+%AmazeCare.BLL.Tests.AdminServiceTests"GetAllAdminsAsync_ReturnsAllAdminsF
+%AmazeCare.BLL.Tests.AdminServiceTestsAddAdminAsync_CallsAddAndSaveU
+%AmazeCare.BLL.Tests.AdminServiceTests,DeleteAdminAsync_AdminExists_DeletesAndSavesW
+%AmazeCare.BLL.Tests.AdminServiceTests.DeleteAdminAsync_AdminDoesNotExist_DoesNothingL
+%AmazeCare.BLL.Tests.AdminServiceTests#UpdateAdminAsync_CallsUpdateAndSaveW
+%AmazeCare.BLL.Tests.AdminServiceTests.GetAdminByIdAsync_ReturnsAdmin_WhenAdminExists\
+%AmazeCare.BLL.Tests.AdminServiceTests3GetAdminByIdAsync_ReturnsNull_WhenAdminDoesNotExistš
+_C:\Users\gokul\OneDrive\Desktop\C#_workspace\AmazeCareSolution\AmazeCare.BLL.Tests\UnitTest1.csAmazeCare.BLL.Tests"
+AmazeCare.BLL.Tests.TestsTest1
