@@ -1,0 +1,15 @@
+<h2>Course Catalog</h2>
+
+<div *ngIf="courses.length === 0">
+  <p>No courses available.</p>
+</div>
+
+<ul *ngIf="courses.length > 0">
+  <li *ngFor="let course of courses" style="margin-bottom: 20px;">
+    <strong>Title:</strong> {{ course.title | uppercase }}<br>
+    <strong>Instructor:</strong> {{ course.instructor | lowercase }}<br>
+    <strong>Start Date:</strong> {{ course.startDate | date:'dd/MM/yyyy' }}<br>
+    <strong>Price:</strong> {{ course.price | currency:'USD':'symbol' }}<br>
+    <strong>Description:</strong> {{ course.description | slice:0:30 }}<span *ngIf="course.description.length > 30">...</span>
+  </li>
+</ul>
